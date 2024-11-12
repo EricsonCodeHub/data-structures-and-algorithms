@@ -1,0 +1,300 @@
+minutes: 0,  landing prob: 0.5677955334160409
+minutes: 0,  take off prob: 0.9646262801861091
+  minutes: 0, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 0    time out of Q: 0
+    time in queue: 0
+    plane runway start time: 0
+    total time in take offs Q: 0
+    total take offs: 1
+minutes: 1,  landing prob: 0.6495320781158
+minutes: 1,  take off prob: 0.9130116696266127
+  minutes: 1, runway is not clear
+minutes: 2,  landing prob: 0.400707807979391
+minutes: 2,  take off prob: 0.8466819196937109
+  minutes: 2, runway is not clear
+minutes: 3,  landing prob: 0.8315386016714298
+minutes: 3,  take off prob: 0.5322046801420532
+  minutes: 3, runway is not clear
+minutes: 4,  landing prob: 0.5257285634016368
+minutes: 4,  take off prob: 0.22244025582552174
+  minutes: 4, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 3    time out of Q: 0
+    plane didn't crash, time in queue: 1
+    plane runway start time: 4
+    total time in landings Q: 1
+    total landings: 1
+minutes: 5,  landing prob: 0.17591742125822873
+minutes: 5,  take off prob: 0.020061671429240646
+  minutes: 5, runway is not clear
+minutes: 6,  landing prob: 0.9956504240491614
+minutes: 6,  take off prob: 0.01775415075319564
+  minutes: 6, runway is not clear
+minutes: 7,  landing prob: 0.57541234910998
+minutes: 7,  take off prob: 0.21282045971755092
+  minutes: 7, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 6    time out of Q: 0
+    plane didn't crash, time in queue: 1
+    plane runway start time: 7
+    total time in landings Q: 2
+    total landings: 2
+minutes: 8,  landing prob: 0.6243247618209502
+minutes: 8,  take off prob: 0.5578754372727612
+  minutes: 8, runway is not clear
+minutes: 9,  landing prob: 0.9830483374300645
+minutes: 9,  take off prob: 0.11747068265218841
+  minutes: 9, runway is not clear
+minutes: 10,  landing prob: 0.03480038706221422
+minutes: 10,  take off prob: 0.044452514270434174
+  minutes: 10, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 9    time out of Q: 0
+    plane didn't crash, time in queue: 1
+    plane runway start time: 10
+    total time in landings Q: 3
+    total landings: 3
+minutes: 11,  landing prob: 0.29835197597171503
+minutes: 11,  take off prob: 0.8768461060570162
+  minutes: 11, runway is not clear
+minutes: 12,  landing prob: 0.3182038068981481
+minutes: 12,  take off prob: 0.6589327899969323
+  minutes: 12, runway is not clear
+minutes: 13,  landing prob: 0.6222633966075675
+minutes: 13,  take off prob: 0.2974164098610532
+  minutes: 13, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 1    time out of Q: 0
+    time in queue: 12
+    plane runway start time: 13
+    total time in take offs Q: 12
+    total take offs: 2
+minutes: 14,  landing prob: 0.2863018244661
+minutes: 14,  take off prob: 0.8292655454477446
+  minutes: 14, runway is not clear
+minutes: 15,  landing prob: 0.7079186511200772
+minutes: 15,  take off prob: 0.37169362091731795
+  minutes: 15, runway is not clear
+minutes: 16,  landing prob: 0.3719760061309232
+minutes: 16,  take off prob: 0.1821527535375218
+  minutes: 16, runway is not clear
+minutes: 17,  landing prob: 0.39639544281965966
+minutes: 17,  take off prob: 0.7281448649242043
+  minutes: 17, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 2    time out of Q: 0
+    time in queue: 15
+    plane runway start time: 17
+    total time in take offs Q: 27
+    total take offs: 3
+minutes: 18,  landing prob: 0.3343781974980472
+minutes: 18,  take off prob: 0.9696964837578429
+  minutes: 18, runway is not clear
+minutes: 19,  landing prob: 0.3196793228082335
+minutes: 19,  take off prob: 0.22373007840539916
+  minutes: 19, runway is not clear
+minutes: 20,  landing prob: 0.059324513211848506
+minutes: 20,  take off prob: 0.3071435049560993
+  minutes: 20, runway is not clear
+minutes: 21,  landing prob: 0.17752164581620877
+minutes: 21,  take off prob: 0.957659503016928
+  minutes: 21, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 3    time out of Q: 0
+    time in queue: 18
+    plane runway start time: 21
+    total time in take offs Q: 45
+    total take offs: 4
+minutes: 22,  landing prob: 0.9105251297824426
+minutes: 22,  take off prob: 0.38752906575184265
+  minutes: 22, runway is not clear
+minutes: 23,  landing prob: 0.45052419701019764
+minutes: 23,  take off prob: 0.8296925343349286
+  minutes: 23, runway is not clear
+minutes: 24,  landing prob: 0.2835355116677377
+minutes: 24,  take off prob: 0.9493733279737211
+  minutes: 24, runway is not clear
+minutes: 25,  landing prob: 0.49870020833389495
+minutes: 25,  take off prob: 0.3922759812701695
+  minutes: 25, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 22    time out of Q: 0
+    plane didn't crash, time in queue: 3
+    plane runway start time: 25
+    total time in landings Q: 6
+    total landings: 4
+minutes: 26,  landing prob: 0.2418543936829083
+minutes: 26,  take off prob: 0.6651856576632165
+  minutes: 26, runway is not clear
+minutes: 27,  landing prob: 0.6129243962652681
+minutes: 27,  take off prob: 0.1530465915004401
+  minutes: 27, runway is not clear
+minutes: 28,  landing prob: 0.37338242412126
+minutes: 28,  take off prob: 0.791383448912461
+  minutes: 28, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 8    time out of Q: 0
+    time in queue: 20
+    plane runway start time: 28
+    total time in take offs Q: 65
+    total take offs: 5
+minutes: 29,  landing prob: 0.736100291709421
+minutes: 29,  take off prob: 0.6726987250249719
+  minutes: 29, runway is not clear
+minutes: 30,  landing prob: 0.2954948246032272
+minutes: 30,  take off prob: 0.37433375551266523
+  minutes: 30, runway is not clear
+minutes: 31,  landing prob: 0.2515355515349055
+minutes: 31,  take off prob: 0.7729452790792831
+  minutes: 31, runway is not clear
+minutes: 32,  landing prob: 0.5582701800020278
+minutes: 32,  take off prob: 0.5425774807673664
+  minutes: 32, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 11    time out of Q: 0
+    time in queue: 21
+    plane runway start time: 32
+    total time in take offs Q: 86
+    total take offs: 6
+minutes: 33,  landing prob: 0.4479311749721563
+minutes: 33,  take off prob: 0.920275984117329
+  minutes: 33, runway is not clear
+minutes: 34,  landing prob: 0.047956667313556633
+minutes: 34,  take off prob: 0.9318975099928951
+  minutes: 34, runway is not clear
+minutes: 35,  landing prob: 0.013554126377743558
+minutes: 35,  take off prob: 0.3834441183354593
+  minutes: 35, runway is not clear
+minutes: 36,  landing prob: 0.37654615940494995
+minutes: 36,  take off prob: 0.08774382907668221
+  minutes: 36, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 12    time out of Q: 0
+    time in queue: 24
+    plane runway start time: 36
+    total time in take offs Q: 110
+    total take offs: 7
+minutes: 37,  landing prob: 0.18657696429681458
+minutes: 37,  take off prob: 0.07608911166913601
+  minutes: 37, runway is not clear
+minutes: 38,  landing prob: 0.15836559388275806
+minutes: 38,  take off prob: 0.7686300132656055
+  minutes: 38, runway is not clear
+minutes: 39,  landing prob: 0.9942322184912783
+minutes: 39,  take off prob: 0.0906288763734786
+  minutes: 39, runway is not clear
+minutes: 40,  landing prob: 0.5208839129782937
+minutes: 40,  take off prob: 0.43446720836722175
+  minutes: 40, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 39    time out of Q: 0
+    plane didn't crash, time in queue: 1
+    plane runway start time: 40
+    total time in landings Q: 7
+    total landings: 5
+minutes: 41,  landing prob: 0.3503432032243825
+minutes: 41,  take off prob: 0.805532755260532
+  minutes: 41, runway is not clear
+minutes: 42,  landing prob: 0.6744725620171576
+minutes: 42,  take off prob: 0.8454031316095587
+  minutes: 42, runway is not clear
+minutes: 43,  landing prob: 0.6489573324521233
+minutes: 43,  take off prob: 0.10531209618314308
+  minutes: 43, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 14    time out of Q: 0
+    time in queue: 29
+    plane runway start time: 43
+    total time in take offs Q: 139
+    total take offs: 8
+minutes: 44,  landing prob: 0.874645642239899
+minutes: 44,  take off prob: 0.6195855706886637
+  minutes: 44, runway is not clear
+minutes: 45,  landing prob: 0.8912214546627407
+minutes: 45,  take off prob: 0.691041983531966
+  minutes: 45, runway is not clear
+minutes: 46,  landing prob: 0.6503457757383053
+minutes: 46,  take off prob: 0.8023706434037742
+  minutes: 46, runway is not clear
+minutes: 47,  landing prob: 0.31330348710156486
+minutes: 47,  take off prob: 0.6789548525693307
+  minutes: 47, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 44    time out of Q: 0
+    plane didn't crash, time in queue: 3
+    plane runway start time: 47
+    total time in landings Q: 10
+    total landings: 6
+minutes: 48,  landing prob: 0.7431302480091431
+minutes: 48,  take off prob: 0.9848487514758457
+  minutes: 48, runway is not clear
+minutes: 49,  landing prob: 0.9450782721304182
+minutes: 49,  take off prob: 0.6856224494954103
+  minutes: 49, runway is not clear
+minutes: 50,  landing prob: 0.8046511332668875
+minutes: 50,  take off prob: 0.2761613844283347
+  minutes: 50, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 45    time out of Q: 0
+    airplane crashed, time in queue: 5
+    plane didn't crash, time in queue: 1
+    plane runway start time: 50
+    total time in landings Q: 11
+    total landings: 7
+minutes: 51,  landing prob: 0.5224595777136026
+minutes: 51,  take off prob: 0.3804696508443338
+  minutes: 51, runway is not clear
+minutes: 52,  landing prob: 0.5336126556816178
+minutes: 52,  take off prob: 0.481934977790641
+  minutes: 52, runway is not clear
+minutes: 53,  landing prob: 0.7006746834089863
+minutes: 53,  take off prob: 0.049840306507049514
+  minutes: 53, runway is clear
+  landing queue is not empty
+  landing is dequeued
+    time in Q: 50    time out of Q: 0
+    plane didn't crash, time in queue: 3
+    plane runway start time: 53
+    total time in landings Q: 14
+    total landings: 8
+minutes: 54,  landing prob: 0.5984271334727138
+minutes: 54,  take off prob: 0.17025816741742483
+  minutes: 54, runway is not clear
+minutes: 55,  landing prob: 0.5714414979532356
+minutes: 55,  take off prob: 0.06156117864714217
+  minutes: 55, runway is not clear
+minutes: 56,  landing prob: 0.3880810387696032
+minutes: 56,  take off prob: 0.9169815069295872
+  minutes: 56, runway is clear
+  take off queue is not empty
+  take off is dequeued
+    time in Q: 17    time out of Q: 0
+    time in queue: 39
+    plane runway start time: 56
+    total time in take offs Q: 178
+    total take offs: 9
+minutes: 57,  landing prob: 0.07392255191347019
+minutes: 57,  take off prob: 0.24492768760822636
+  minutes: 57, runway is not clear
+minutes: 58,  landing prob: 0.36126082692361117
+minutes: 58,  take off prob: 0.9137193343092834
+  minutes: 58, runway is not clear
+minutes: 59,  landing prob: 0.007494277038309294
+minutes: 59,  take off prob: 0.10826058189806875
+  minutes: 59, runway is not clear

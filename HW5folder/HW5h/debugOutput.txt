@@ -1,0 +1,4018 @@
+minutes: 0,  landing prob: 0.491695852767971
+minutes: 0,  take off prob: 0.44835477797210543
+minutes: 0, runway is not clear
+minutes: 1,  landing prob: 0.7785400573246701
+minutes: 1,  take off prob: 0.7475865218944369
+landing queue is not empty
+landing is dequeued
+minutes: 1 plane Airplane@3d4eac69 has lannded
+minutes: 2,  landing prob: 0.2789127675372409
+minutes: 2,  take off prob: 0.21217240740248833
+minutes: 2, runway is not clear
+minutes: 3,  landing prob: 0.658069833074226
+minutes: 3,  take off prob: 0.1848085803636107
+minutes: 3, runway is not clear
+minutes: 4,  landing prob: 0.211728614116925
+minutes: 4,  take off prob: 0.6086408253578378
+landing queue is not empty
+landing is dequeued
+minutes: 4 plane Airplane@42a57993 has lannded
+minutes: 5,  landing prob: 0.642464393476088
+minutes: 5,  take off prob: 0.9906778364160587
+minutes: 5, runway is not clear
+minutes: 6,  landing prob: 0.34692837441880253
+minutes: 6,  take off prob: 0.6788429512008414
+minutes: 6, runway is not clear
+minutes: 7,  landing prob: 0.7252021719485356
+minutes: 7,  take off prob: 0.461650306196437
+landing queue is not empty
+landing is dequeued
+minutes: 7 plane Airplane@75b84c92 has lannded
+minutes: 8,  landing prob: 0.38005428121758444
+minutes: 8,  take off prob: 0.07958466051045676
+minutes: 8, runway is not clear
+minutes: 9,  landing prob: 0.33745046820520186
+minutes: 9,  take off prob: 0.2898813046783909
+minutes: 9, runway is not clear
+minutes: 10,  landing prob: 0.9579457751566629
+minutes: 10,  take off prob: 0.7915189557189819
+landing queue is not empty
+landing is dequeued
+minutes: 10 plane Airplane@6bc7c054 has lannded
+minutes: 11,  landing prob: 0.47443084008303704
+minutes: 11,  take off prob: 0.32243346708637644
+minutes: 11, runway is not clear
+minutes: 12,  landing prob: 0.8371477554860003
+minutes: 12,  take off prob: 0.650963479716084
+minutes: 12, runway is not clear
+minutes: 13,  landing prob: 0.08041662579796771
+minutes: 13,  take off prob: 0.0247396863788214
+landing queue is not empty
+landing is dequeued
+minutes: 13 plane Airplane@232204a1 has lannded
+minutes: 14,  landing prob: 0.22844559364227368
+minutes: 14,  take off prob: 0.2122955507538472
+minutes: 14, runway is not clear
+minutes: 15,  landing prob: 0.7114841706132853
+minutes: 15,  take off prob: 0.18697117588398526
+minutes: 15, runway is not clear
+minutes: 16,  landing prob: 0.41756109757257764
+minutes: 16,  take off prob: 0.6700796160700248
+landing queue is not empty
+landing is dequeued
+minutes: 16 plane Airplane@4aa298b7 has lannded
+minutes: 17,  landing prob: 0.878476785472779
+minutes: 17,  take off prob: 0.4403364351241583
+minutes: 17, runway is not clear
+minutes: 18,  landing prob: 0.21859386912339573
+minutes: 18,  take off prob: 0.9193894875221138
+minutes: 18, runway is not clear
+minutes: 19,  landing prob: 0.01842445521995084
+minutes: 19,  take off prob: 0.6004320558849398
+landing queue is not empty
+landing is dequeued
+minutes: 19 plane Airplane@7d4991ad has lannded
+minutes: 20,  landing prob: 0.19360032350378387
+minutes: 20,  take off prob: 0.2735861422873149
+minutes: 20, runway is not clear
+minutes: 21,  landing prob: 0.8040673170480495
+minutes: 21,  take off prob: 0.06092414009681868
+minutes: 21, runway is not clear
+minutes: 22,  landing prob: 0.3097057558485077
+minutes: 22,  take off prob: 0.6471300623998925
+landing queue is not empty
+landing is dequeued
+minutes: 22 plane Airplane@28d93b30 has lannded
+minutes: 23,  landing prob: 0.15519616700283667
+minutes: 23,  take off prob: 0.2714603227495124
+minutes: 23, runway is not clear
+minutes: 24,  landing prob: 0.5705569201441055
+minutes: 24,  take off prob: 0.2676212089915584
+minutes: 24, runway is not clear
+minutes: 25,  landing prob: 0.18605813324129905
+minutes: 25,  take off prob: 0.18018692963120764
+landing queue is not empty
+minutes: 25 plane Airplane@1b6d3586 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 25 plane Airplane@4554617c has lannded
+minutes: 26,  landing prob: 0.7451573320891246
+minutes: 26,  take off prob: 0.14314551537224462
+minutes: 26, runway is not clear
+minutes: 27,  landing prob: 0.18063153173530933
+minutes: 27,  take off prob: 0.364034331299132
+minutes: 27, runway is not clear
+minutes: 28,  landing prob: 0.49885326667235963
+minutes: 28,  take off prob: 0.48107169263999083
+landing queue is not empty
+landing is dequeued
+minutes: 28 plane Airplane@74a14482 has lannded
+minutes: 29,  landing prob: 0.984913704586613
+minutes: 29,  take off prob: 0.3365718559445099
+minutes: 29, runway is not clear
+minutes: 30,  landing prob: 0.760552802068731
+minutes: 30,  take off prob: 0.35930535132137453
+minutes: 30, runway is not clear
+minutes: 31,  landing prob: 0.9226505988884821
+minutes: 31,  take off prob: 0.5734134129708189
+landing queue is not empty
+minutes: 31 plane Airplane@1540e19d has crahed
+landing is dequeued
+minutes: 31 plane Airplane@677327b6 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 31 plane Airplane@14ae5a5 has lannded
+minutes: 32,  landing prob: 0.7412794249898872
+minutes: 32,  take off prob: 0.7460638457203029
+minutes: 32, runway is not clear
+minutes: 33,  landing prob: 0.7974638746261486
+minutes: 33,  take off prob: 0.7229655589047923
+minutes: 33, runway is not clear
+minutes: 34,  landing prob: 0.37237676487588445
+minutes: 34,  take off prob: 0.6182622698006303
+landing queue is not empty
+minutes: 34 plane Airplane@7f31245a has crahed
+landing is dequeued
+landing is dequeued
+minutes: 34 plane Airplane@6d6f6e28 has lannded
+minutes: 35,  landing prob: 0.7820737725265587
+minutes: 35,  take off prob: 0.8351316481588932
+minutes: 35, runway is not clear
+minutes: 36,  landing prob: 0.47445710930948237
+minutes: 36,  take off prob: 0.8120307302208462
+minutes: 36, runway is not clear
+minutes: 37,  landing prob: 0.09718682383433208
+minutes: 37,  take off prob: 0.5951563129772459
+landing queue is not empty
+landing is dequeued
+minutes: 37 plane Airplane@135fbaa4 has lannded
+minutes: 38,  landing prob: 0.7530791787399853
+minutes: 38,  take off prob: 0.3035013874874972
+minutes: 38, runway is not clear
+minutes: 39,  landing prob: 0.559493983950126
+minutes: 39,  take off prob: 0.5455285578505068
+minutes: 39, runway is not clear
+minutes: 40,  landing prob: 0.47180408827465126
+minutes: 40,  take off prob: 0.5155237048919298
+landing queue is not empty
+minutes: 40 plane Airplane@45ee12a7 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 40 plane Airplane@330bedb4 has lannded
+minutes: 41,  landing prob: 0.2705896498668894
+minutes: 41,  take off prob: 0.06448078682110081
+minutes: 41, runway is not clear
+minutes: 42,  landing prob: 0.4378672867599257
+minutes: 42,  take off prob: 0.7374192557081575
+minutes: 42, runway is not clear
+minutes: 43,  landing prob: 0.8860833083550652
+minutes: 43,  take off prob: 0.8949537211725345
+landing queue is not empty
+landing is dequeued
+minutes: 43 plane Airplane@2503dbd3 has lannded
+minutes: 44,  landing prob: 0.5161776697229132
+minutes: 44,  take off prob: 0.8360831371401891
+minutes: 44, runway is not clear
+minutes: 45,  landing prob: 0.6446314085480354
+minutes: 45,  take off prob: 0.9337145663137227
+minutes: 45, runway is not clear
+minutes: 46,  landing prob: 0.27260365318688484
+minutes: 46,  take off prob: 0.11699128567535944
+landing queue is not empty
+landing is dequeued
+minutes: 46 plane Airplane@4b67cf4d has lannded
+minutes: 47,  landing prob: 0.5577618248015259
+minutes: 47,  take off prob: 0.8064878016166168
+minutes: 47, runway is not clear
+minutes: 48,  landing prob: 0.3264162702852301
+minutes: 48,  take off prob: 0.13325420098013285
+minutes: 48, runway is not clear
+minutes: 49,  landing prob: 0.37369861856019215
+minutes: 49,  take off prob: 0.4893826170486607
+landing queue is not empty
+landing is dequeued
+minutes: 49 plane Airplane@7ea987ac has lannded
+minutes: 50,  landing prob: 0.9902715276133016
+minutes: 50,  take off prob: 0.44733068764611206
+minutes: 50, runway is not clear
+minutes: 51,  landing prob: 0.4891502177518031
+minutes: 51,  take off prob: 0.6592287462803621
+minutes: 51, runway is not clear
+minutes: 52,  landing prob: 0.010541444263371225
+minutes: 52,  take off prob: 0.7947201127830399
+landing queue is not empty
+minutes: 52 plane Airplane@12a3a380 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 52 plane Airplane@29453f44 has lannded
+minutes: 53,  landing prob: 0.4574206315297288
+minutes: 53,  take off prob: 0.1721944304322961
+minutes: 53, runway is not clear
+minutes: 54,  landing prob: 0.11770140497679715
+minutes: 54,  take off prob: 0.9487477588654702
+minutes: 54, runway is not clear
+minutes: 55,  landing prob: 0.7375587089448468
+minutes: 55,  take off prob: 0.08878492949610839
+landing queue is not empty
+landing is dequeued
+minutes: 55 plane Airplane@5cad8086 has lannded
+minutes: 56,  landing prob: 0.6882607508917155
+minutes: 56,  take off prob: 0.04911878002510517
+minutes: 56, runway is not clear
+minutes: 57,  landing prob: 0.9659223883001242
+minutes: 57,  take off prob: 0.5987761505408976
+minutes: 57, runway is not clear
+minutes: 58,  landing prob: 0.7601600530655468
+minutes: 58,  take off prob: 0.9277729803063874
+landing queue is not empty
+landing is dequeued
+minutes: 58 plane Airplane@6e0be858 has lannded
+minutes: 59,  landing prob: 0.8695752449420889
+minutes: 59,  take off prob: 0.273185077968774
+minutes: 59, runway is not clear
+minutes: 60,  landing prob: 0.8703546283556326
+minutes: 60,  take off prob: 0.06890585353177925
+minutes: 60, runway is not clear
+minutes: 61,  landing prob: 0.5482739543095627
+minutes: 61,  take off prob: 0.40777005567974556
+landing queue is not empty
+minutes: 61 plane Airplane@61bbe9ba has crahed
+landing is dequeued
+landing is dequeued
+minutes: 61 plane Airplane@610455d6 has lannded
+minutes: 62,  landing prob: 0.9659348230631186
+minutes: 62,  take off prob: 0.5583361488729888
+minutes: 62, runway is not clear
+minutes: 63,  landing prob: 0.9459086567227305
+minutes: 63,  take off prob: 0.44366447487500427
+minutes: 63, runway is not clear
+minutes: 64,  landing prob: 0.009622987141743145
+minutes: 64,  take off prob: 0.12546232013124758
+landing queue is not empty
+minutes: 64 plane Airplane@511d50c0 has crahed
+landing is dequeued
+minutes: 64 plane Airplane@60e53b93 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 64 plane Airplane@5e2de80c has lannded
+minutes: 65,  landing prob: 0.20093931391971254
+minutes: 65,  take off prob: 0.7710821679200828
+minutes: 65, runway is not clear
+minutes: 66,  landing prob: 0.9992262172040852
+minutes: 66,  take off prob: 0.3654459482974486
+minutes: 66, runway is not clear
+minutes: 67,  landing prob: 0.402775557144741
+minutes: 67,  take off prob: 0.13451674399624947
+landing queue is not empty
+landing is dequeued
+minutes: 67 plane Airplane@1d44bcfa has lannded
+minutes: 68,  landing prob: 0.9484050495645615
+minutes: 68,  take off prob: 0.07435997719454235
+minutes: 68, runway is not clear
+minutes: 69,  landing prob: 0.8478756213176504
+minutes: 69,  take off prob: 0.8764478724295244
+minutes: 69, runway is not clear
+minutes: 70,  landing prob: 0.8849181379907575
+minutes: 70,  take off prob: 0.4773528226227317
+landing queue is not empty
+landing is dequeued
+minutes: 70 plane Airplane@266474c2 has lannded
+minutes: 71,  landing prob: 0.45824011166082423
+minutes: 71,  take off prob: 0.5453359706708052
+minutes: 71, runway is not clear
+minutes: 72,  landing prob: 0.6841195671592682
+minutes: 72,  take off prob: 0.7794003200744847
+minutes: 72, runway is not clear
+minutes: 73,  landing prob: 0.8899583335354367
+minutes: 73,  take off prob: 0.4887466249944832
+landing queue is not empty
+landing is dequeued
+minutes: 73 plane Airplane@6f94fa3e has lannded
+minutes: 74,  landing prob: 0.2131881579604079
+minutes: 74,  take off prob: 0.7630510234779841
+minutes: 74, runway is not clear
+minutes: 75,  landing prob: 0.30207034337657424
+minutes: 75,  take off prob: 0.5806826196183265
+minutes: 75, runway is not clear
+minutes: 76,  landing prob: 0.7736138033005496
+minutes: 76,  take off prob: 0.4552553071036408
+landing queue is not empty
+landing is dequeued
+minutes: 76 plane Airplane@5e481248 has lannded
+minutes: 77,  landing prob: 0.7365905230134201
+minutes: 77,  take off prob: 0.45030113231647184
+minutes: 77, runway is not clear
+minutes: 78,  landing prob: 0.01740360821246012
+minutes: 78,  take off prob: 0.5956250441060106
+minutes: 78, runway is not clear
+minutes: 79,  landing prob: 0.9139659840069722
+minutes: 79,  take off prob: 0.06378541014120986
+landing queue is not empty
+landing is dequeued
+minutes: 79 plane Airplane@66d3c617 has lannded
+minutes: 80,  landing prob: 0.3862159066609058
+minutes: 80,  take off prob: 0.7445186293363905
+minutes: 80, runway is not clear
+minutes: 81,  landing prob: 0.13178753509142072
+minutes: 81,  take off prob: 0.46715656586438514
+minutes: 81, runway is not clear
+minutes: 82,  landing prob: 0.8513361737365794
+minutes: 82,  take off prob: 0.1761766419625499
+landing queue is not empty
+landing is dequeued
+minutes: 82 plane Airplane@63947c6b has lannded
+minutes: 83,  landing prob: 0.666944747105878
+minutes: 83,  take off prob: 0.21053877244772046
+minutes: 83, runway is not clear
+minutes: 84,  landing prob: 0.2160986008599648
+minutes: 84,  take off prob: 0.4296488968104726
+minutes: 84, runway is not clear
+minutes: 85,  landing prob: 0.24101743537953102
+minutes: 85,  take off prob: 0.47283124896371787
+landing queue is not empty
+landing is dequeued
+minutes: 85 plane Airplane@2b193f2d has lannded
+minutes: 86,  landing prob: 0.10852751473335298
+minutes: 86,  take off prob: 0.3969196047232808
+minutes: 86, runway is not clear
+minutes: 87,  landing prob: 0.46101785170303744
+minutes: 87,  take off prob: 0.0204103232108116
+minutes: 87, runway is not clear
+minutes: 88,  landing prob: 0.008344165833978567
+minutes: 88,  take off prob: 0.6099440645253953
+landing queue is not empty
+landing is dequeued
+minutes: 88 plane Airplane@355da254 has lannded
+minutes: 89,  landing prob: 9.022040049262436E-4
+minutes: 89,  take off prob: 0.782433213258037
+minutes: 89, runway is not clear
+minutes: 90,  landing prob: 0.9070229580644448
+minutes: 90,  take off prob: 0.25007094165185917
+minutes: 90, runway is not clear
+minutes: 91,  landing prob: 0.6416165873776494
+minutes: 91,  take off prob: 0.966433072503534
+landing queue is not empty
+landing is dequeued
+minutes: 91 plane Airplane@4dc63996 has lannded
+minutes: 92,  landing prob: 0.45899245246489195
+minutes: 92,  take off prob: 0.2771643379033607
+minutes: 92, runway is not clear
+minutes: 93,  landing prob: 0.6644841130783941
+minutes: 93,  take off prob: 0.38272061727432594
+minutes: 93, runway is not clear
+minutes: 94,  landing prob: 0.12491862250322228
+minutes: 94,  take off prob: 0.9359944265322712
+landing queue is not empty
+landing is dequeued
+minutes: 94 plane Airplane@d716361 has lannded
+minutes: 95,  landing prob: 0.27333146017736754
+minutes: 95,  take off prob: 0.7926067180068811
+minutes: 95, runway is not clear
+minutes: 96,  landing prob: 0.26067289510121605
+minutes: 96,  take off prob: 0.3859243967573305
+minutes: 96, runway is not clear
+minutes: 97,  landing prob: 0.6842068462638861
+minutes: 97,  take off prob: 0.28632490502975305
+landing queue is not empty
+minutes: 97 plane Airplane@6ff3c5b5 has crahed
+landing is dequeued
+minutes: 97 plane Airplane@3764951d has crahed
+landing is dequeued
+landing is dequeued
+minutes: 97 plane Airplane@4b1210ee has lannded
+minutes: 98,  landing prob: 0.2762516640330327
+minutes: 98,  take off prob: 0.9179863315254584
+minutes: 98, runway is not clear
+minutes: 99,  landing prob: 0.5801733193757337
+minutes: 99,  take off prob: 0.9176981062054681
+minutes: 99, runway is not clear
+minutes: 100,  landing prob: 0.33504705707407834
+minutes: 100,  take off prob: 0.6991039057229278
+landing queue is not empty
+minutes: 100 plane Airplane@4d7e1886 has crahed
+landing is dequeued
+minutes: 100 plane Airplane@3cd1a2f1 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 100 plane Airplane@2f0e140b has lannded
+minutes: 101,  landing prob: 0.7626296314555739
+minutes: 101,  take off prob: 0.07542057636565158
+minutes: 101, runway is not clear
+minutes: 102,  landing prob: 0.4583343673120225
+minutes: 102,  take off prob: 0.5586000500291868
+minutes: 102, runway is not clear
+minutes: 103,  landing prob: 0.9479096849861519
+minutes: 103,  take off prob: 0.05646571204627027
+landing queue is not empty
+landing is dequeued
+minutes: 103 plane Airplane@7440e464 has lannded
+minutes: 104,  landing prob: 0.6880286211544558
+minutes: 104,  take off prob: 0.9322103761465705
+minutes: 104, runway is not clear
+minutes: 105,  landing prob: 0.47885294312652027
+minutes: 105,  take off prob: 0.9481184002954314
+minutes: 105, runway is not clear
+minutes: 106,  landing prob: 0.08059558241679421
+minutes: 106,  take off prob: 0.23922669487524062
+landing queue is not empty
+minutes: 106 plane Airplane@49476842 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 106 plane Airplane@78308db1 has lannded
+minutes: 107,  landing prob: 0.6345418633414889
+minutes: 107,  take off prob: 0.8893414397212117
+minutes: 107, runway is not clear
+minutes: 108,  landing prob: 0.6045582011529242
+minutes: 108,  take off prob: 0.5833181699063155
+minutes: 108, runway is not clear
+minutes: 109,  landing prob: 0.3114641696171485
+minutes: 109,  take off prob: 0.268451926383134
+landing queue is not empty
+minutes: 109 plane Airplane@27c170f0 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 109 plane Airplane@5451c3a8 has lannded
+minutes: 110,  landing prob: 0.9029608553091961
+minutes: 110,  take off prob: 0.2710998471237469
+minutes: 110, runway is not clear
+minutes: 111,  landing prob: 0.9406367045276051
+minutes: 111,  take off prob: 0.863380176891619
+minutes: 111, runway is not clear
+minutes: 112,  landing prob: 0.951047363541935
+minutes: 112,  take off prob: 0.25987336347417433
+landing queue is not empty
+landing is dequeued
+minutes: 112 plane Airplane@2626b418 has lannded
+minutes: 113,  landing prob: 0.7398246080432981
+minutes: 113,  take off prob: 0.15960272011262588
+minutes: 113, runway is not clear
+minutes: 114,  landing prob: 0.5152456060466953
+minutes: 114,  take off prob: 0.2659575012938016
+minutes: 114, runway is not clear
+minutes: 115,  landing prob: 0.8168619354891707
+minutes: 115,  take off prob: 0.5129462314131017
+landing queue is not empty
+landing is dequeued
+minutes: 115 plane Airplane@5a07e868 has lannded
+minutes: 116,  landing prob: 0.43492936756486755
+minutes: 116,  take off prob: 0.5820414086341159
+minutes: 116, runway is not clear
+minutes: 117,  landing prob: 0.8833658929937493
+minutes: 117,  take off prob: 0.15318781547219773
+minutes: 117, runway is not clear
+minutes: 118,  landing prob: 0.20048131769329847
+minutes: 118,  take off prob: 0.13001373685288176
+landing queue is not empty
+minutes: 118 plane Airplane@76ed5528 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 118 plane Airplane@2c7b84de has lannded
+minutes: 119,  landing prob: 0.1941664830827763
+minutes: 119,  take off prob: 0.028191882094713128
+minutes: 119, runway is not clear
+minutes: 120,  landing prob: 0.20041190278188625
+minutes: 120,  take off prob: 0.35719970185338046
+minutes: 120, runway is not clear
+minutes: 121,  landing prob: 0.6722746838003092
+minutes: 121,  take off prob: 0.6473584546964218
+landing queue is not empty
+landing is dequeued
+minutes: 121 plane Airplane@3fee733d has lannded
+minutes: 122,  landing prob: 0.7292771725427915
+minutes: 122,  take off prob: 0.40590587043551973
+minutes: 122, runway is not clear
+minutes: 123,  landing prob: 0.14447501497806203
+minutes: 123,  take off prob: 0.374292696843072
+minutes: 123, runway is not clear
+minutes: 124,  landing prob: 0.6876638523717633
+minutes: 124,  take off prob: 0.7687206483603638
+landing queue is not empty
+landing is dequeued
+minutes: 124 plane Airplane@5acf9800 has lannded
+minutes: 125,  landing prob: 0.6013886609038038
+minutes: 125,  take off prob: 0.9479883711684443
+minutes: 125, runway is not clear
+minutes: 126,  landing prob: 0.3650228899525587
+minutes: 126,  take off prob: 0.5698199443384351
+minutes: 126, runway is not clear
+minutes: 127,  landing prob: 0.6731647046383679
+minutes: 127,  take off prob: 0.6356208813584618
+landing queue is not empty
+landing is dequeued
+minutes: 127 plane Airplane@4617c264 has lannded
+minutes: 128,  landing prob: 0.21142049730646617
+minutes: 128,  take off prob: 0.18359378140899474
+minutes: 128, runway is not clear
+minutes: 129,  landing prob: 0.7460837344207877
+minutes: 129,  take off prob: 0.005034931947313526
+minutes: 129, runway is not clear
+minutes: 130,  landing prob: 0.9032330928445605
+minutes: 130,  take off prob: 0.26301647674399675
+landing queue is not empty
+landing is dequeued
+minutes: 130 plane Airplane@36baf30c has lannded
+minutes: 131,  landing prob: 0.714326357918016
+minutes: 131,  take off prob: 0.7434819782915894
+minutes: 131, runway is not clear
+minutes: 132,  landing prob: 0.40009850199532193
+minutes: 132,  take off prob: 0.7183648905466936
+minutes: 132, runway is not clear
+minutes: 133,  landing prob: 0.1562176214121791
+minutes: 133,  take off prob: 0.30931414133562696
+landing queue is not empty
+landing is dequeued
+minutes: 133 plane Airplane@7a81197d has lannded
+minutes: 134,  landing prob: 0.7138847394472343
+minutes: 134,  take off prob: 0.46879201665844805
+minutes: 134, runway is not clear
+minutes: 135,  landing prob: 0.9551160140264486
+minutes: 135,  take off prob: 0.8510952728937455
+minutes: 135, runway is not clear
+minutes: 136,  landing prob: 0.09426354321733288
+minutes: 136,  take off prob: 0.9029816760675844
+landing queue is not empty
+landing is dequeued
+minutes: 136 plane Airplane@5ca881b5 has lannded
+minutes: 137,  landing prob: 0.8064599322886103
+minutes: 137,  take off prob: 0.37640664772700116
+minutes: 137, runway is not clear
+minutes: 138,  landing prob: 0.3689584090778386
+minutes: 138,  take off prob: 0.021901474318805736
+minutes: 138, runway is not clear
+minutes: 139,  landing prob: 0.702860760746643
+minutes: 139,  take off prob: 0.02251254532454805
+landing queue is not empty
+minutes: 139 plane Airplane@24d46ca6 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 139 plane Airplane@4517d9a3 has lannded
+minutes: 140,  landing prob: 0.05802112975558715
+minutes: 140,  take off prob: 0.03091738048217607
+minutes: 140, runway is not clear
+minutes: 141,  landing prob: 0.36390809280539993
+minutes: 141,  take off prob: 0.6465901406930561
+minutes: 141, runway is not clear
+minutes: 142,  landing prob: 0.19753437912838157
+minutes: 142,  take off prob: 0.5359988861251864
+landing queue is not empty
+landing is dequeued
+minutes: 142 plane Airplane@372f7a8d has lannded
+minutes: 143,  landing prob: 0.8163881464245307
+minutes: 143,  take off prob: 0.7933865288720563
+minutes: 143, runway is not clear
+minutes: 144,  landing prob: 0.3112214026119948
+minutes: 144,  take off prob: 0.6628977460832854
+minutes: 144, runway is not clear
+minutes: 145,  landing prob: 0.5263004345546443
+minutes: 145,  take off prob: 0.010110848586990184
+landing queue is not empty
+landing is dequeued
+minutes: 145 plane Airplane@2f92e0f4 has lannded
+minutes: 146,  landing prob: 0.39216522544601784
+minutes: 146,  take off prob: 0.4163339077812134
+minutes: 146, runway is not clear
+minutes: 147,  landing prob: 0.09093394121764264
+minutes: 147,  take off prob: 0.7027467187375819
+minutes: 147, runway is not clear
+minutes: 148,  landing prob: 0.19915836192507297
+minutes: 148,  take off prob: 0.04444553186506073
+landing queue is not empty
+landing is dequeued
+minutes: 148 plane Airplane@28a418fc has lannded
+minutes: 149,  landing prob: 0.601689089979624
+minutes: 149,  take off prob: 0.7062615079762717
+minutes: 149, runway is not clear
+minutes: 150,  landing prob: 0.004305536686801559
+minutes: 150,  take off prob: 0.7463284272183824
+minutes: 150, runway is not clear
+minutes: 151,  landing prob: 0.6108184866111672
+minutes: 151,  take off prob: 0.9610772063735594
+landing queue is not empty
+minutes: 151 plane Airplane@5305068a has crahed
+landing is dequeued
+landing is dequeued
+minutes: 151 plane Airplane@1f32e575 has lannded
+minutes: 152,  landing prob: 0.050758303722957976
+minutes: 152,  take off prob: 0.19345740948543422
+minutes: 152, runway is not clear
+minutes: 153,  landing prob: 0.10984169402228794
+minutes: 153,  take off prob: 0.40695165562904834
+minutes: 153, runway is not clear
+minutes: 154,  landing prob: 0.6027236774524165
+minutes: 154,  take off prob: 0.6750496509334589
+landing queue is not empty
+minutes: 154 plane Airplane@279f2327 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 154 plane Airplane@2ff4acd0 has lannded
+minutes: 155,  landing prob: 0.4425157238709059
+minutes: 155,  take off prob: 0.6269068184176174
+minutes: 155, runway is not clear
+minutes: 156,  landing prob: 0.04345535751015783
+minutes: 156,  take off prob: 0.39879212302013034
+minutes: 156, runway is not clear
+minutes: 157,  landing prob: 0.799942687970937
+minutes: 157,  take off prob: 0.281911827485947
+landing queue is not empty
+minutes: 157 plane Airplane@54bedef2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 157 plane Airplane@5caf905d has lannded
+minutes: 158,  landing prob: 0.1483669273403735
+minutes: 158,  take off prob: 0.44620752417078835
+minutes: 158, runway is not clear
+minutes: 159,  landing prob: 0.5107895416289951
+minutes: 159,  take off prob: 0.4766172279010542
+minutes: 159, runway is not clear
+minutes: 160,  landing prob: 0.6981627705755138
+minutes: 160,  take off prob: 0.3828312077998559
+landing queue is not empty
+minutes: 160 plane Airplane@27716f4 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 160 plane Airplane@8efb846 has lannded
+minutes: 161,  landing prob: 0.9415836056218199
+minutes: 161,  take off prob: 0.3647120550316385
+minutes: 161, runway is not clear
+minutes: 162,  landing prob: 0.06199293004473627
+minutes: 162,  take off prob: 0.6702664713171076
+minutes: 162, runway is not clear
+minutes: 163,  landing prob: 0.3969336205888587
+minutes: 163,  take off prob: 0.11940539645107529
+landing queue is not empty
+minutes: 163 plane Airplane@2a84aee7 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 163 plane Airplane@a09ee92 has lannded
+minutes: 164,  landing prob: 0.9847840559017537
+minutes: 164,  take off prob: 0.7155489928331038
+minutes: 164, runway is not clear
+minutes: 165,  landing prob: 0.5448647413981703
+minutes: 165,  take off prob: 0.7378587006260273
+minutes: 165, runway is not clear
+minutes: 166,  landing prob: 0.5149353607953691
+minutes: 166,  take off prob: 0.5643733209865655
+landing queue is not empty
+minutes: 166 plane Airplane@30f39991 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 166 plane Airplane@452b3a41 has lannded
+minutes: 167,  landing prob: 0.09584687735398878
+minutes: 167,  take off prob: 0.7937791112833219
+minutes: 167, runway is not clear
+minutes: 168,  landing prob: 0.002282215722655745
+minutes: 168,  take off prob: 0.7881280118598287
+minutes: 168, runway is not clear
+minutes: 169,  landing prob: 0.9566204964498118
+minutes: 169,  take off prob: 0.13855346533322588
+landing queue is not empty
+minutes: 169 plane Airplane@4a574795 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 169 plane Airplane@f6f4d33 has lannded
+minutes: 170,  landing prob: 0.2850117799723829
+minutes: 170,  take off prob: 0.5387958337168213
+minutes: 170, runway is not clear
+minutes: 171,  landing prob: 0.9180889528024637
+minutes: 171,  take off prob: 0.46121449663273606
+minutes: 171, runway is not clear
+minutes: 172,  landing prob: 0.7001909296192346
+minutes: 172,  take off prob: 0.8267746397909513
+landing queue is not empty
+landing is dequeued
+minutes: 172 plane Airplane@23fc625e has lannded
+minutes: 173,  landing prob: 0.9937060764010858
+minutes: 173,  take off prob: 0.43290119811496697
+minutes: 173, runway is not clear
+minutes: 174,  landing prob: 0.8731584197688065
+minutes: 174,  take off prob: 0.07976950071071875
+minutes: 174, runway is not clear
+minutes: 175,  landing prob: 0.7222971676911392
+minutes: 175,  take off prob: 0.9342409016334672
+landing queue is not empty
+landing is dequeued
+minutes: 175 plane Airplane@3f99bd52 has lannded
+minutes: 176,  landing prob: 0.3911294906334797
+minutes: 176,  take off prob: 0.8215432537506456
+minutes: 176, runway is not clear
+minutes: 177,  landing prob: 0.3666544576164138
+minutes: 177,  take off prob: 0.16841805087895878
+minutes: 177, runway is not clear
+minutes: 178,  landing prob: 0.9568109502923066
+minutes: 178,  take off prob: 0.7277812508977706
+landing queue is not empty
+landing is dequeued
+minutes: 178 plane Airplane@4f023edb has lannded
+minutes: 179,  landing prob: 0.729656169166635
+minutes: 179,  take off prob: 0.1466454345521887
+minutes: 179, runway is not clear
+minutes: 180,  landing prob: 0.7337350947838888
+minutes: 180,  take off prob: 0.15739135163696527
+minutes: 180, runway is not clear
+minutes: 181,  landing prob: 0.2977569489891774
+minutes: 181,  take off prob: 0.6555519687753025
+landing queue is not empty
+minutes: 181 plane Airplane@3a71f4dd has crahed
+landing is dequeued
+landing is dequeued
+minutes: 181 plane Airplane@7adf9f5f has lannded
+minutes: 182,  landing prob: 0.14014660077358243
+minutes: 182,  take off prob: 0.5748531109471389
+minutes: 182, runway is not clear
+minutes: 183,  landing prob: 0.6559254517567372
+minutes: 183,  take off prob: 0.9984806912534187
+minutes: 183, runway is not clear
+minutes: 184,  landing prob: 0.7627969607878308
+minutes: 184,  take off prob: 0.6265080953645679
+landing queue is not empty
+landing is dequeued
+minutes: 184 plane Airplane@85ede7b has lannded
+minutes: 185,  landing prob: 0.29845823059329335
+minutes: 185,  take off prob: 0.19533072091160408
+minutes: 185, runway is not clear
+minutes: 186,  landing prob: 0.2135835013222276
+minutes: 186,  take off prob: 0.7893034454750715
+minutes: 186, runway is not clear
+minutes: 187,  landing prob: 0.8934980157523539
+minutes: 187,  take off prob: 0.030354768827879575
+landing queue is not empty
+landing is dequeued
+minutes: 187 plane Airplane@5674cd4d has lannded
+minutes: 188,  landing prob: 0.926578608881334
+minutes: 188,  take off prob: 0.04212135314172549
+minutes: 188, runway is not clear
+minutes: 189,  landing prob: 0.35534094281394224
+minutes: 189,  take off prob: 0.2890574575355147
+minutes: 189, runway is not clear
+minutes: 190,  landing prob: 0.7779331274126623
+minutes: 190,  take off prob: 0.39894988018156863
+landing queue is not empty
+landing is dequeued
+minutes: 190 plane Airplane@63961c42 has lannded
+minutes: 191,  landing prob: 0.11301637452901514
+minutes: 191,  take off prob: 0.02246989326433646
+minutes: 191, runway is not clear
+minutes: 192,  landing prob: 0.45183822396326057
+minutes: 192,  take off prob: 0.5044655525982649
+minutes: 192, runway is not clear
+minutes: 193,  landing prob: 0.28664614029505464
+minutes: 193,  take off prob: 0.7016982824933
+landing queue is not empty
+landing is dequeued
+minutes: 193 plane Airplane@65b54208 has lannded
+minutes: 194,  landing prob: 0.7280272023143374
+minutes: 194,  take off prob: 0.7660718476348167
+minutes: 194, runway is not clear
+minutes: 195,  landing prob: 0.5901043466114658
+minutes: 195,  take off prob: 0.10916251281151679
+minutes: 195, runway is not clear
+minutes: 196,  landing prob: 0.25163650397892035
+minutes: 196,  take off prob: 0.11054586010994583
+landing queue is not empty
+landing is dequeued
+minutes: 196 plane Airplane@1be6f5c3 has lannded
+minutes: 197,  landing prob: 0.425687261633925
+minutes: 197,  take off prob: 0.6978396180426844
+minutes: 197, runway is not clear
+minutes: 198,  landing prob: 0.773738337767377
+minutes: 198,  take off prob: 0.33482245164066027
+minutes: 198, runway is not clear
+minutes: 199,  landing prob: 0.4044980214641869
+minutes: 199,  take off prob: 0.39672147332394003
+landing queue is not empty
+landing is dequeued
+minutes: 199 plane Airplane@6b884d57 has lannded
+minutes: 200,  landing prob: 0.007286477083934484
+minutes: 200,  take off prob: 0.49637547751978073
+minutes: 200, runway is not clear
+minutes: 201,  landing prob: 0.03231472166690008
+minutes: 201,  take off prob: 0.5093049169092487
+minutes: 201, runway is not clear
+minutes: 202,  landing prob: 0.10313939954250895
+minutes: 202,  take off prob: 0.7457166771721047
+landing queue is not empty
+minutes: 202 plane Airplane@38af3868 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 202 plane Airplane@77459877 has lannded
+minutes: 203,  landing prob: 0.7453220525751085
+minutes: 203,  take off prob: 0.9143076440269615
+minutes: 203, runway is not clear
+minutes: 204,  landing prob: 0.6786478954740817
+minutes: 204,  take off prob: 0.5308467165190293
+minutes: 204, runway is not clear
+minutes: 205,  landing prob: 0.09915760369221349
+minutes: 205,  take off prob: 0.19134317814043722
+landing queue is not empty
+minutes: 205 plane Airplane@5b2133b1 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 205 plane Airplane@72ea2f77 has lannded
+minutes: 206,  landing prob: 0.06757641175325135
+minutes: 206,  take off prob: 0.9786095311559618
+minutes: 206, runway is not clear
+minutes: 207,  landing prob: 0.3047856047619508
+minutes: 207,  take off prob: 0.9487772776987192
+minutes: 207, runway is not clear
+minutes: 208,  landing prob: 0.7537145819025871
+minutes: 208,  take off prob: 0.14912224059914803
+landing queue is not empty
+minutes: 208 plane Airplane@33c7353a has crahed
+landing is dequeued
+landing is dequeued
+minutes: 208 plane Airplane@681a9515 has lannded
+minutes: 209,  landing prob: 0.9535031756410208
+minutes: 209,  take off prob: 0.8620852870761062
+minutes: 209, runway is not clear
+minutes: 210,  landing prob: 0.21103916074004803
+minutes: 210,  take off prob: 0.15651055522922974
+minutes: 210, runway is not clear
+minutes: 211,  landing prob: 0.8055501937324814
+minutes: 211,  take off prob: 0.1718810144747729
+landing queue is not empty
+minutes: 211 plane Airplane@3af49f1c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 211 plane Airplane@19469ea2 has lannded
+minutes: 212,  landing prob: 0.6792914473620654
+minutes: 212,  take off prob: 0.44409462752983586
+minutes: 212, runway is not clear
+minutes: 213,  landing prob: 0.6035679691928475
+minutes: 213,  take off prob: 0.7639843981287625
+minutes: 213, runway is not clear
+minutes: 214,  landing prob: 0.2847058428641225
+minutes: 214,  take off prob: 0.9117996135427547
+landing queue is not empty
+minutes: 214 plane Airplane@13221655 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 214 plane Airplane@2f2c9b19 has lannded
+minutes: 215,  landing prob: 0.44806533842023155
+minutes: 215,  take off prob: 0.47380017036302546
+minutes: 215, runway is not clear
+minutes: 216,  landing prob: 0.7694654931272262
+minutes: 216,  take off prob: 0.16069160425684503
+minutes: 216, runway is not clear
+minutes: 217,  landing prob: 0.08070000227799112
+minutes: 217,  take off prob: 0.7253120733630415
+landing queue is not empty
+minutes: 217 plane Airplane@31befd9f has crahed
+landing is dequeued
+landing is dequeued
+minutes: 217 plane Airplane@1c20c684 has lannded
+minutes: 218,  landing prob: 0.9483293227929948
+minutes: 218,  take off prob: 0.2193023737250953
+minutes: 218, runway is not clear
+minutes: 219,  landing prob: 0.4850457281235562
+minutes: 219,  take off prob: 0.9495183221029236
+minutes: 219, runway is not clear
+minutes: 220,  landing prob: 0.138696207736539
+minutes: 220,  take off prob: 0.010609077420269841
+landing queue is not empty
+landing is dequeued
+minutes: 220 plane Airplane@1fb3ebeb has lannded
+minutes: 221,  landing prob: 0.02691612296157808
+minutes: 221,  take off prob: 0.951242547344535
+minutes: 221, runway is not clear
+minutes: 222,  landing prob: 0.9202970795493345
+minutes: 222,  take off prob: 0.5790455977261355
+minutes: 222, runway is not clear
+minutes: 223,  landing prob: 0.9380553329796764
+minutes: 223,  take off prob: 0.7931479932361283
+landing queue is not empty
+landing is dequeued
+minutes: 223 plane Airplane@548c4f57 has lannded
+minutes: 224,  landing prob: 0.9872410100234726
+minutes: 224,  take off prob: 0.625885421713649
+minutes: 224, runway is not clear
+minutes: 225,  landing prob: 0.894554898019062
+minutes: 225,  take off prob: 0.49525613204100494
+minutes: 225, runway is not clear
+minutes: 226,  landing prob: 0.8263159573167815
+minutes: 226,  take off prob: 0.32497169427127137
+landing queue is not empty
+minutes: 226 plane Airplane@1218025c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 226 plane Airplane@816f27d has lannded
+minutes: 227,  landing prob: 0.09596575933833773
+minutes: 227,  take off prob: 0.8428330153688975
+minutes: 227, runway is not clear
+minutes: 228,  landing prob: 0.9463017650944158
+minutes: 228,  take off prob: 0.8466624850770751
+minutes: 228, runway is not clear
+minutes: 229,  landing prob: 0.4459867766528782
+minutes: 229,  take off prob: 0.5984098833496628
+landing queue is not empty
+landing is dequeued
+minutes: 229 plane Airplane@87aac27 has lannded
+minutes: 230,  landing prob: 0.07954108867995524
+minutes: 230,  take off prob: 0.14896169803928205
+minutes: 230, runway is not clear
+minutes: 231,  landing prob: 0.3403074151857508
+minutes: 231,  take off prob: 0.7920090073222725
+minutes: 231, runway is not clear
+minutes: 232,  landing prob: 0.33167936915903196
+minutes: 232,  take off prob: 0.10352242229936304
+landing queue is not empty
+minutes: 232 plane Airplane@3e3abc88 has crahed
+landing is dequeued
+minutes: 232 plane Airplane@6ce253f1 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 232 plane Airplane@53d8d10a has lannded
+minutes: 233,  landing prob: 0.575235409057659
+minutes: 233,  take off prob: 0.1710635392140044
+minutes: 233, runway is not clear
+minutes: 234,  landing prob: 0.7561264588885473
+minutes: 234,  take off prob: 0.5647811980776546
+minutes: 234, runway is not clear
+minutes: 235,  landing prob: 0.2933313110420215
+minutes: 235,  take off prob: 0.7995961261850018
+landing queue is not empty
+landing is dequeued
+minutes: 235 plane Airplane@e9e54c2 has lannded
+minutes: 236,  landing prob: 0.02575717077413142
+minutes: 236,  take off prob: 0.6442504799400026
+minutes: 236, runway is not clear
+minutes: 237,  landing prob: 0.4178905010762036
+minutes: 237,  take off prob: 0.5537894141941524
+minutes: 237, runway is not clear
+minutes: 238,  landing prob: 0.3076301481666214
+minutes: 238,  take off prob: 0.6889718744460508
+landing queue is not empty
+landing is dequeued
+minutes: 238 plane Airplane@65ab7765 has lannded
+minutes: 239,  landing prob: 0.1464420093576253
+minutes: 239,  take off prob: 0.6082418765601226
+minutes: 239, runway is not clear
+minutes: 240,  landing prob: 0.3856524155959635
+minutes: 240,  take off prob: 0.27614201440917574
+minutes: 240, runway is not clear
+minutes: 241,  landing prob: 0.7022006356642018
+minutes: 241,  take off prob: 0.6539676537535166
+landing queue is not empty
+landing is dequeued
+minutes: 241 plane Airplane@1b28cdfa has lannded
+minutes: 242,  landing prob: 0.11701777352423348
+minutes: 242,  take off prob: 0.5533284059908723
+minutes: 242, runway is not clear
+minutes: 243,  landing prob: 0.2838417216289968
+minutes: 243,  take off prob: 0.013918700165363784
+minutes: 243, runway is not clear
+minutes: 244,  landing prob: 0.4171023217336346
+minutes: 244,  take off prob: 0.4925871196472059
+landing queue is not empty
+minutes: 244 plane Airplane@eed1f14 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 244 plane Airplane@7229724f has lannded
+minutes: 245,  landing prob: 0.07635976472043782
+minutes: 245,  take off prob: 0.8949240993998513
+minutes: 245, runway is not clear
+minutes: 246,  landing prob: 0.6226052149340788
+minutes: 246,  take off prob: 0.7028065559987142
+minutes: 246, runway is not clear
+minutes: 247,  landing prob: 0.055499734191635675
+minutes: 247,  take off prob: 0.5048930136846455
+landing queue is not empty
+minutes: 247 plane Airplane@4c873330 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 247 plane Airplane@119d7047 has lannded
+minutes: 248,  landing prob: 0.6529335806721269
+minutes: 248,  take off prob: 0.20482273407510387
+minutes: 248, runway is not clear
+minutes: 249,  landing prob: 0.40034058506890013
+minutes: 249,  take off prob: 0.2834675531778016
+minutes: 249, runway is not clear
+minutes: 250,  landing prob: 0.20275603095053596
+minutes: 250,  take off prob: 0.04714225553243645
+landing queue is not empty
+minutes: 250 plane Airplane@776ec8df has crahed
+landing is dequeued
+minutes: 250 plane Airplane@4eec7777 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 250 plane Airplane@3b07d329 has lannded
+minutes: 251,  landing prob: 0.32008293367081464
+minutes: 251,  take off prob: 0.18640823196077516
+minutes: 251, runway is not clear
+minutes: 252,  landing prob: 0.5708413945749524
+minutes: 252,  take off prob: 0.3481861157796955
+minutes: 252, runway is not clear
+minutes: 253,  landing prob: 0.7582408865350232
+minutes: 253,  take off prob: 0.5017862253038279
+landing queue is not empty
+minutes: 253 plane Airplane@41629346 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 253 plane Airplane@404b9385 has lannded
+minutes: 254,  landing prob: 0.3565210177723178
+minutes: 254,  take off prob: 0.916748180886457
+minutes: 254, runway is not clear
+minutes: 255,  landing prob: 0.9687222808718265
+minutes: 255,  take off prob: 0.4692531585495443
+minutes: 255, runway is not clear
+minutes: 256,  landing prob: 0.31297632914562423
+minutes: 256,  take off prob: 0.9879828659322488
+landing queue is not empty
+minutes: 256 plane Airplane@6d311334 has crahed
+landing is dequeued
+minutes: 256 plane Airplane@682a0b20 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 256 plane Airplane@3d075dc0 has lannded
+minutes: 257,  landing prob: 0.12614008636691387
+minutes: 257,  take off prob: 0.30597010880005504
+minutes: 257, runway is not clear
+minutes: 258,  landing prob: 0.5623884085731973
+minutes: 258,  take off prob: 0.07496993562480314
+minutes: 258, runway is not clear
+minutes: 259,  landing prob: 0.6187885427686075
+minutes: 259,  take off prob: 0.0545378286424707
+landing queue is not empty
+landing is dequeued
+minutes: 259 plane Airplane@214c265e has lannded
+minutes: 260,  landing prob: 0.21783415932621986
+minutes: 260,  take off prob: 0.8488166418342575
+minutes: 260, runway is not clear
+minutes: 261,  landing prob: 0.9263175234320532
+minutes: 261,  take off prob: 0.14793953731076992
+minutes: 261, runway is not clear
+minutes: 262,  landing prob: 0.5584121740504007
+minutes: 262,  take off prob: 0.8030871032056986
+landing queue is not empty
+minutes: 262 plane Airplane@448139f0 has crahed
+landing is dequeued
+minutes: 262 plane Airplane@7cca494b has crahed
+landing is dequeued
+landing is dequeued
+minutes: 262 plane Airplane@7ba4f24f has lannded
+minutes: 263,  landing prob: 0.4159117748677229
+minutes: 263,  take off prob: 0.8635728761543869
+minutes: 263, runway is not clear
+minutes: 264,  landing prob: 0.625673965907024
+minutes: 264,  take off prob: 0.15087575963836541
+minutes: 264, runway is not clear
+minutes: 265,  landing prob: 0.8677927091345298
+minutes: 265,  take off prob: 0.7847395640335701
+landing queue is not empty
+landing is dequeued
+minutes: 265 plane Airplane@3b9a45b3 has lannded
+minutes: 266,  landing prob: 0.31742949939644693
+minutes: 266,  take off prob: 0.8858536115050201
+minutes: 266, runway is not clear
+minutes: 267,  landing prob: 0.7721440954169816
+minutes: 267,  take off prob: 0.39017072434643507
+minutes: 267, runway is not clear
+minutes: 268,  landing prob: 0.3553200731897075
+minutes: 268,  take off prob: 0.6108226296278245
+landing queue is not empty
+minutes: 268 plane Airplane@7699a589 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 268 plane Airplane@58372a00 has lannded
+minutes: 269,  landing prob: 0.05348626193381678
+minutes: 269,  take off prob: 0.10116919673599567
+minutes: 269, runway is not clear
+minutes: 270,  landing prob: 0.40158396578369093
+minutes: 270,  take off prob: 0.5549826478065542
+minutes: 270, runway is not clear
+minutes: 271,  landing prob: 0.5265036789272554
+minutes: 271,  take off prob: 0.07737786444797323
+landing queue is not empty
+landing is dequeued
+minutes: 271 plane Airplane@4dd8dc3 has lannded
+minutes: 272,  landing prob: 0.602398235006822
+minutes: 272,  take off prob: 0.7969186063651325
+minutes: 272, runway is not clear
+minutes: 273,  landing prob: 0.785761924372595
+minutes: 273,  take off prob: 0.8679285762175453
+minutes: 273, runway is not clear
+minutes: 274,  landing prob: 0.23278437838412935
+minutes: 274,  take off prob: 0.3851100731271093
+landing queue is not empty
+landing is dequeued
+minutes: 274 plane Airplane@6d03e736 has lannded
+minutes: 275,  landing prob: 0.1253223560978297
+minutes: 275,  take off prob: 0.029592910423091978
+minutes: 275, runway is not clear
+minutes: 276,  landing prob: 0.21824118176190932
+minutes: 276,  take off prob: 0.24286137900146332
+minutes: 276, runway is not clear
+minutes: 277,  landing prob: 0.05165196294328067
+minutes: 277,  take off prob: 0.8965266247362503
+landing queue is not empty
+landing is dequeued
+minutes: 277 plane Airplane@568db2f2 has lannded
+minutes: 278,  landing prob: 0.9832332543263442
+minutes: 278,  take off prob: 0.5934733936028348
+minutes: 278, runway is not clear
+minutes: 279,  landing prob: 0.9433928683250073
+minutes: 279,  take off prob: 0.656892844946156
+minutes: 279, runway is not clear
+minutes: 280,  landing prob: 0.6963114549276258
+minutes: 280,  take off prob: 0.6154477304464527
+landing queue is not empty
+minutes: 280 plane Airplane@378bf509 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 280 plane Airplane@5fd0d5ae has lannded
+minutes: 281,  landing prob: 0.721645230639858
+minutes: 281,  take off prob: 0.7154814206669786
+minutes: 281, runway is not clear
+minutes: 282,  landing prob: 0.1931459981847714
+minutes: 282,  take off prob: 0.29714682260731806
+minutes: 282, runway is not clear
+minutes: 283,  landing prob: 0.4252294145375797
+minutes: 283,  take off prob: 0.6047023259240316
+landing queue is not empty
+landing is dequeued
+minutes: 283 plane Airplane@2d98a335 has lannded
+minutes: 284,  landing prob: 0.6425081594466298
+minutes: 284,  take off prob: 0.6094286656605125
+minutes: 284, runway is not clear
+minutes: 285,  landing prob: 0.22549903435880836
+minutes: 285,  take off prob: 0.5052449589419016
+minutes: 285, runway is not clear
+minutes: 286,  landing prob: 0.9789435603922294
+minutes: 286,  take off prob: 0.8433721527960429
+landing queue is not empty
+minutes: 286 plane Airplane@16b98e56 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 286 plane Airplane@7ef20235 has lannded
+minutes: 287,  landing prob: 0.3172770622848827
+minutes: 287,  take off prob: 0.9790638079859282
+minutes: 287, runway is not clear
+minutes: 288,  landing prob: 0.9031010198453638
+minutes: 288,  take off prob: 0.36318369492536307
+minutes: 288, runway is not clear
+minutes: 289,  landing prob: 0.4802512999356784
+minutes: 289,  take off prob: 0.8071599048853556
+landing queue is not empty
+minutes: 289 plane Airplane@27d6c5e0 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 289 plane Airplane@4f3f5b24 has lannded
+minutes: 290,  landing prob: 0.7821805662472168
+minutes: 290,  take off prob: 0.5372770359805871
+minutes: 290, runway is not clear
+minutes: 291,  landing prob: 0.6573192606430477
+minutes: 291,  take off prob: 0.2957553589665186
+minutes: 291, runway is not clear
+minutes: 292,  landing prob: 0.5369927400156275
+minutes: 292,  take off prob: 0.21207128649005946
+landing queue is not empty
+landing is dequeued
+minutes: 292 plane Airplane@15aeb7ab has lannded
+minutes: 293,  landing prob: 0.46541188404671496
+minutes: 293,  take off prob: 0.6411552604236977
+minutes: 293, runway is not clear
+minutes: 294,  landing prob: 0.5409630058846698
+minutes: 294,  take off prob: 0.22896642059393024
+minutes: 294, runway is not clear
+minutes: 295,  landing prob: 0.15990235039228573
+minutes: 295,  take off prob: 0.903417606961412
+landing queue is not empty
+landing is dequeued
+minutes: 295 plane Airplane@7b23ec81 has lannded
+minutes: 296,  landing prob: 0.5767331547605147
+minutes: 296,  take off prob: 0.7614205316967612
+minutes: 296, runway is not clear
+minutes: 297,  landing prob: 0.14883837302456493
+minutes: 297,  take off prob: 0.5448232067433989
+minutes: 297, runway is not clear
+minutes: 298,  landing prob: 0.7344019191304335
+minutes: 298,  take off prob: 0.07810372619433548
+landing queue is not empty
+minutes: 298 plane Airplane@6acbcfc0 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 298 plane Airplane@5f184fc6 has lannded
+minutes: 299,  landing prob: 0.2287397447534737
+minutes: 299,  take off prob: 0.8444819492033133
+minutes: 299, runway is not clear
+minutes: 300,  landing prob: 0.012668549779625726
+minutes: 300,  take off prob: 0.9453644287621341
+minutes: 300, runway is not clear
+minutes: 301,  landing prob: 0.6825698614700683
+minutes: 301,  take off prob: 0.14051803850614508
+landing queue is not empty
+landing is dequeued
+minutes: 301 plane Airplane@3feba861 has lannded
+minutes: 302,  landing prob: 0.828016517448065
+minutes: 302,  take off prob: 0.4484717075361476
+minutes: 302, runway is not clear
+minutes: 303,  landing prob: 0.5630232197797109
+minutes: 303,  take off prob: 0.03611111854011129
+minutes: 303, runway is not clear
+minutes: 304,  landing prob: 0.8990214525250161
+minutes: 304,  take off prob: 0.3554456958079576
+landing queue is not empty
+landing is dequeued
+minutes: 304 plane Airplane@5b480cf9 has lannded
+minutes: 305,  landing prob: 0.1457522229383703
+minutes: 305,  take off prob: 0.26197350917667184
+minutes: 305, runway is not clear
+minutes: 306,  landing prob: 0.47303089346123073
+minutes: 306,  take off prob: 0.3071440922739763
+minutes: 306, runway is not clear
+minutes: 307,  landing prob: 0.17162449801588686
+minutes: 307,  take off prob: 0.31711127415943563
+landing queue is not empty
+landing is dequeued
+minutes: 307 plane Airplane@6f496d9f has lannded
+minutes: 308,  landing prob: 0.5368596262493053
+minutes: 308,  take off prob: 0.5742965275338884
+minutes: 308, runway is not clear
+minutes: 309,  landing prob: 0.12187720560052262
+minutes: 309,  take off prob: 0.8175914835888617
+minutes: 309, runway is not clear
+minutes: 310,  landing prob: 0.9928988708732854
+minutes: 310,  take off prob: 0.8428373687467242
+landing queue is not empty
+minutes: 310 plane Airplane@723279cf has crahed
+landing is dequeued
+landing is dequeued
+minutes: 310 plane Airplane@10f87f48 has lannded
+minutes: 311,  landing prob: 0.42906714894706965
+minutes: 311,  take off prob: 0.017382367059895376
+minutes: 311, runway is not clear
+minutes: 312,  landing prob: 0.9884382763688168
+minutes: 312,  take off prob: 0.8071300703470753
+minutes: 312, runway is not clear
+minutes: 313,  landing prob: 0.35228533355820046
+minutes: 313,  take off prob: 0.7875795585995758
+landing queue is not empty
+landing is dequeued
+minutes: 313 plane Airplane@b4c966a has lannded
+minutes: 314,  landing prob: 0.27078163235720387
+minutes: 314,  take off prob: 0.3496809892504541
+minutes: 314, runway is not clear
+minutes: 315,  landing prob: 0.04124408984284578
+minutes: 315,  take off prob: 0.7409795202530746
+minutes: 315, runway is not clear
+minutes: 316,  landing prob: 0.17620059500570262
+minutes: 316,  take off prob: 0.4470332265858271
+landing queue is not empty
+landing is dequeued
+minutes: 316 plane Airplane@2f4d3709 has lannded
+minutes: 317,  landing prob: 0.9906016819309721
+minutes: 317,  take off prob: 0.6330069819748789
+minutes: 317, runway is not clear
+minutes: 318,  landing prob: 0.9718904503547594
+minutes: 318,  take off prob: 0.9933312997902203
+minutes: 318, runway is not clear
+minutes: 319,  landing prob: 0.5373820956088099
+minutes: 319,  take off prob: 0.5286007345761125
+landing queue is not empty
+minutes: 319 plane Airplane@4e50df2e has crahed
+landing is dequeued
+landing is dequeued
+minutes: 319 plane Airplane@1d81eb93 has lannded
+minutes: 320,  landing prob: 0.5126207535581193
+minutes: 320,  take off prob: 0.6195469047306531
+minutes: 320, runway is not clear
+minutes: 321,  landing prob: 0.8623915655120085
+minutes: 321,  take off prob: 0.8575461958345881
+minutes: 321, runway is not clear
+minutes: 322,  landing prob: 0.9215513787189714
+minutes: 322,  take off prob: 0.27101690770126585
+landing queue is not empty
+minutes: 322 plane Airplane@7291c18f has crahed
+landing is dequeued
+landing is dequeued
+minutes: 322 plane Airplane@34a245ab has lannded
+minutes: 323,  landing prob: 0.46737230136840857
+minutes: 323,  take off prob: 0.6219121120652819
+minutes: 323, runway is not clear
+minutes: 324,  landing prob: 0.5689768027109515
+minutes: 324,  take off prob: 0.09479883762515662
+minutes: 324, runway is not clear
+minutes: 325,  landing prob: 0.42133102799664
+minutes: 325,  take off prob: 0.2683168037699232
+landing queue is not empty
+minutes: 325 plane Airplane@7cc355be has crahed
+landing is dequeued
+landing is dequeued
+minutes: 325 plane Airplane@6e8cf4c6 has lannded
+minutes: 326,  landing prob: 0.28230983749106575
+minutes: 326,  take off prob: 0.29152550930242505
+minutes: 326, runway is not clear
+minutes: 327,  landing prob: 0.16795956801897194
+minutes: 327,  take off prob: 0.7760340131368512
+minutes: 327, runway is not clear
+minutes: 328,  landing prob: 0.941875468209351
+minutes: 328,  take off prob: 0.20456726301272476
+landing queue is not empty
+minutes: 328 plane Airplane@12edcd21 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 328 plane Airplane@34c45dca has lannded
+minutes: 329,  landing prob: 0.22275599390325163
+minutes: 329,  take off prob: 0.1423787024862988
+minutes: 329, runway is not clear
+minutes: 330,  landing prob: 0.9878084410982922
+minutes: 330,  take off prob: 0.07678090248363134
+minutes: 330, runway is not clear
+minutes: 331,  landing prob: 0.32649990194389367
+minutes: 331,  take off prob: 0.4698607993650389
+landing queue is not empty
+landing is dequeued
+minutes: 331 plane Airplane@52cc8049 has lannded
+minutes: 332,  landing prob: 0.881181898485608
+minutes: 332,  take off prob: 0.5241523974499565
+minutes: 332, runway is not clear
+minutes: 333,  landing prob: 0.9680111836564407
+minutes: 333,  take off prob: 0.8843103387469681
+minutes: 333, runway is not clear
+minutes: 334,  landing prob: 0.2708561828862118
+minutes: 334,  take off prob: 0.4761062333532883
+landing queue is not empty
+landing is dequeued
+minutes: 334 plane Airplane@5b6f7412 has lannded
+minutes: 335,  landing prob: 0.7879490173984633
+minutes: 335,  take off prob: 0.9316512886406286
+minutes: 335, runway is not clear
+minutes: 336,  landing prob: 0.4822496297795019
+minutes: 336,  take off prob: 0.11040054188791582
+minutes: 336, runway is not clear
+minutes: 337,  landing prob: 0.9176235715672525
+minutes: 337,  take off prob: 0.26995816587538124
+landing queue is not empty
+landing is dequeued
+minutes: 337 plane Airplane@27973e9b has lannded
+minutes: 338,  landing prob: 0.06231598342176825
+minutes: 338,  take off prob: 0.9964808545488719
+minutes: 338, runway is not clear
+minutes: 339,  landing prob: 0.6402435873429224
+minutes: 339,  take off prob: 0.2317389696956319
+minutes: 339, runway is not clear
+minutes: 340,  landing prob: 0.3072691418471081
+minutes: 340,  take off prob: 0.7195835121976929
+landing queue is not empty
+minutes: 340 plane Airplane@312b1dae has crahed
+landing is dequeued
+landing is dequeued
+minutes: 340 plane Airplane@7530d0a has lannded
+minutes: 341,  landing prob: 0.6447203997973503
+minutes: 341,  take off prob: 0.9933606981089476
+minutes: 341, runway is not clear
+minutes: 342,  landing prob: 0.9863033088881242
+minutes: 342,  take off prob: 0.5851585021774134
+minutes: 342, runway is not clear
+minutes: 343,  landing prob: 0.30667228890743026
+minutes: 343,  take off prob: 0.5100077774906555
+landing queue is not empty
+landing is dequeued
+minutes: 343 plane Airplane@27bc2616 has lannded
+minutes: 344,  landing prob: 0.1781410733812654
+minutes: 344,  take off prob: 0.6088468790286938
+minutes: 344, runway is not clear
+minutes: 345,  landing prob: 0.5855676413546284
+minutes: 345,  take off prob: 0.6819453475663835
+minutes: 345, runway is not clear
+minutes: 346,  landing prob: 0.13398479710267086
+minutes: 346,  take off prob: 0.7723063949833288
+landing queue is not empty
+landing is dequeued
+minutes: 346 plane Airplane@3941a79c has lannded
+minutes: 347,  landing prob: 0.8751796889541232
+minutes: 347,  take off prob: 0.3642737168847594
+minutes: 347, runway is not clear
+minutes: 348,  landing prob: 0.6940171428028696
+minutes: 348,  take off prob: 0.6992670478058223
+minutes: 348, runway is not clear
+minutes: 349,  landing prob: 0.17130850848890333
+minutes: 349,  take off prob: 0.8281429136897244
+landing queue is not empty
+minutes: 349 plane Airplane@506e1b77 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 349 plane Airplane@4fca772d has lannded
+minutes: 350,  landing prob: 0.8189665471040591
+minutes: 350,  take off prob: 0.7414786238698401
+minutes: 350, runway is not clear
+minutes: 351,  landing prob: 0.9032842213232345
+minutes: 351,  take off prob: 0.3716308365702713
+minutes: 351, runway is not clear
+minutes: 352,  landing prob: 0.5716000733063372
+minutes: 352,  take off prob: 0.877785790111376
+landing queue is not empty
+landing is dequeued
+minutes: 352 plane Airplane@9807454 has lannded
+minutes: 353,  landing prob: 0.4694307436231888
+minutes: 353,  take off prob: 0.8780702802189623
+minutes: 353, runway is not clear
+minutes: 354,  landing prob: 0.6502416086412011
+minutes: 354,  take off prob: 0.8964311836389253
+minutes: 354, runway is not clear
+minutes: 355,  landing prob: 0.1887140986040693
+minutes: 355,  take off prob: 0.9493171407218766
+landing queue is not empty
+minutes: 355 plane Airplane@3d494fbf has crahed
+landing is dequeued
+landing is dequeued
+minutes: 355 plane Airplane@1ddc4ec2 has lannded
+minutes: 356,  landing prob: 0.14913619294967162
+minutes: 356,  take off prob: 0.1725201727195541
+minutes: 356, runway is not clear
+minutes: 357,  landing prob: 0.21055514405136222
+minutes: 357,  take off prob: 0.5030393816836616
+minutes: 357, runway is not clear
+minutes: 358,  landing prob: 0.9851055212936298
+minutes: 358,  take off prob: 0.020832602493904506
+landing queue is not empty
+landing is dequeued
+minutes: 358 plane Airplane@133314b has lannded
+minutes: 359,  landing prob: 0.919643502681951
+minutes: 359,  take off prob: 0.7767559347178021
+minutes: 359, runway is not clear
+minutes: 360,  landing prob: 0.7893141473190083
+minutes: 360,  take off prob: 0.7518717913397749
+minutes: 360, runway is not clear
+minutes: 361,  landing prob: 0.24759257401422052
+minutes: 361,  take off prob: 0.467632334450391
+landing queue is not empty
+landing is dequeued
+minutes: 361 plane Airplane@b1bc7ed has lannded
+minutes: 362,  landing prob: 0.05434121862568475
+minutes: 362,  take off prob: 0.7800806074971693
+minutes: 362, runway is not clear
+minutes: 363,  landing prob: 0.37664547800151515
+minutes: 363,  take off prob: 0.4753362222636559
+minutes: 363, runway is not clear
+minutes: 364,  landing prob: 0.42845987836005706
+minutes: 364,  take off prob: 0.6641823465635788
+landing queue is not empty
+landing is dequeued
+minutes: 364 plane Airplane@7cd84586 has lannded
+minutes: 365,  landing prob: 0.007836970630244355
+minutes: 365,  take off prob: 0.557650891005169
+minutes: 365, runway is not clear
+minutes: 366,  landing prob: 0.529002989057277
+minutes: 366,  take off prob: 0.7732680562829579
+minutes: 366, runway is not clear
+minutes: 367,  landing prob: 0.3629434071476948
+minutes: 367,  take off prob: 0.14933680096214874
+landing queue is not empty
+minutes: 367 plane Airplane@30dae81 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 367 plane Airplane@1b2c6ec2 has lannded
+minutes: 368,  landing prob: 0.33915643485213387
+minutes: 368,  take off prob: 0.9148319220857078
+minutes: 368, runway is not clear
+minutes: 369,  landing prob: 0.9680748033964475
+minutes: 369,  take off prob: 0.6576147230906635
+minutes: 369, runway is not clear
+minutes: 370,  landing prob: 0.3022109120272509
+minutes: 370,  take off prob: 0.3084959212991265
+landing queue is not empty
+landing is dequeued
+minutes: 370 plane Airplane@4edde6e5 has lannded
+minutes: 371,  landing prob: 0.8447601210603699
+minutes: 371,  take off prob: 0.13147211501124723
+minutes: 371, runway is not clear
+minutes: 372,  landing prob: 0.6057978375361165
+minutes: 372,  take off prob: 0.486889788409562
+minutes: 372, runway is not clear
+minutes: 373,  landing prob: 0.13152740880387848
+minutes: 373,  take off prob: 0.5756885835692612
+landing queue is not empty
+minutes: 373 plane Airplane@70177ecd has crahed
+landing is dequeued
+landing is dequeued
+minutes: 373 plane Airplane@1e80bfe8 has lannded
+minutes: 374,  landing prob: 0.8272027694240822
+minutes: 374,  take off prob: 0.5161121909068145
+minutes: 374, runway is not clear
+minutes: 375,  landing prob: 0.1645335046259665
+minutes: 375,  take off prob: 0.4836445726210664
+minutes: 375, runway is not clear
+minutes: 376,  landing prob: 0.9330306819256776
+minutes: 376,  take off prob: 0.6104701326125966
+landing queue is not empty
+minutes: 376 plane Airplane@66a29884 has crahed
+landing is dequeued
+minutes: 376 plane Airplane@4769b07b has crahed
+landing is dequeued
+landing is dequeued
+minutes: 376 plane Airplane@cc34f4d has lannded
+minutes: 377,  landing prob: 0.36248809880276156
+minutes: 377,  take off prob: 0.502829425640874
+minutes: 377, runway is not clear
+minutes: 378,  landing prob: 0.11862188068090285
+minutes: 378,  take off prob: 0.4472650998688168
+minutes: 378, runway is not clear
+minutes: 379,  landing prob: 0.5509718230878511
+minutes: 379,  take off prob: 0.3263853975165384
+landing queue is not empty
+minutes: 379 plane Airplane@17a7cec2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 379 plane Airplane@65b3120a has lannded
+minutes: 380,  landing prob: 0.9987061810102655
+minutes: 380,  take off prob: 0.6376712063450065
+minutes: 380, runway is not clear
+minutes: 381,  landing prob: 0.3683666721551667
+minutes: 381,  take off prob: 0.30798799239768426
+minutes: 381, runway is not clear
+minutes: 382,  landing prob: 0.8677934160632491
+minutes: 382,  take off prob: 0.42032244994396795
+landing queue is not empty
+landing is dequeued
+minutes: 382 plane Airplane@6f539caf has lannded
+minutes: 383,  landing prob: 0.7550814399721082
+minutes: 383,  take off prob: 0.20923127176761436
+minutes: 383, runway is not clear
+minutes: 384,  landing prob: 0.14687658767450118
+minutes: 384,  take off prob: 0.8052399200716556
+minutes: 384, runway is not clear
+minutes: 385,  landing prob: 0.8676149572017215
+minutes: 385,  take off prob: 0.05237617406511974
+landing queue is not empty
+landing is dequeued
+minutes: 385 plane Airplane@79fc0f2f has lannded
+minutes: 386,  landing prob: 0.8970138944088935
+minutes: 386,  take off prob: 0.8575149648501708
+minutes: 386, runway is not clear
+minutes: 387,  landing prob: 0.6976902367668116
+minutes: 387,  take off prob: 0.17405020665269189
+minutes: 387, runway is not clear
+minutes: 388,  landing prob: 0.05558586477653937
+minutes: 388,  take off prob: 0.9039921308248438
+landing queue is not empty
+minutes: 388 plane Airplane@50040f0c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 388 plane Airplane@2dda6444 has lannded
+minutes: 389,  landing prob: 0.03448138158646441
+minutes: 389,  take off prob: 0.07597636577825584
+minutes: 389, runway is not clear
+minutes: 390,  landing prob: 0.49441212069839235
+minutes: 390,  take off prob: 0.9746764328875989
+minutes: 390, runway is not clear
+minutes: 391,  landing prob: 0.22213974743613696
+minutes: 391,  take off prob: 0.25143317701809076
+landing queue is not empty
+landing is dequeued
+minutes: 391 plane Airplane@5e9f23b4 has lannded
+minutes: 392,  landing prob: 0.8427145786527477
+minutes: 392,  take off prob: 0.9916693204634963
+minutes: 392, runway is not clear
+minutes: 393,  landing prob: 0.17333740994299074
+minutes: 393,  take off prob: 0.28866497144051184
+minutes: 393, runway is not clear
+minutes: 394,  landing prob: 0.377889114577206
+minutes: 394,  take off prob: 0.7090810417236181
+landing queue is not empty
+landing is dequeued
+minutes: 394 plane Airplane@4783da3f has lannded
+minutes: 395,  landing prob: 0.3248899822534931
+minutes: 395,  take off prob: 0.47933321975809096
+minutes: 395, runway is not clear
+minutes: 396,  landing prob: 0.14954689171578373
+minutes: 396,  take off prob: 0.721014946082284
+minutes: 396, runway is not clear
+minutes: 397,  landing prob: 0.5183883172281475
+minutes: 397,  take off prob: 0.3239560735289343
+landing queue is not empty
+landing is dequeued
+minutes: 397 plane Airplane@378fd1ac has lannded
+minutes: 398,  landing prob: 0.5579900733716165
+minutes: 398,  take off prob: 0.37183129184546526
+minutes: 398, runway is not clear
+minutes: 399,  landing prob: 0.7818162933356008
+minutes: 399,  take off prob: 0.9378529519974554
+minutes: 399, runway is not clear
+minutes: 400,  landing prob: 0.8133035398079372
+minutes: 400,  take off prob: 0.8546651844048895
+landing queue is not empty
+minutes: 400 plane Airplane@49097b5d has crahed
+landing is dequeued
+landing is dequeued
+minutes: 400 plane Airplane@6e2c634b has lannded
+minutes: 401,  landing prob: 0.21225520357969396
+minutes: 401,  take off prob: 0.231865448509343
+minutes: 401, runway is not clear
+minutes: 402,  landing prob: 0.2802397651859433
+minutes: 402,  take off prob: 0.21593646645838804
+minutes: 402, runway is not clear
+minutes: 403,  landing prob: 0.6368440463776228
+minutes: 403,  take off prob: 0.14924787446211507
+landing queue is not empty
+minutes: 403 plane Airplane@37a71e93 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 403 plane Airplane@7e6cbb7a has lannded
+minutes: 404,  landing prob: 0.07255212507229158
+minutes: 404,  take off prob: 0.4624812351608456
+minutes: 404, runway is not clear
+minutes: 405,  landing prob: 0.271849108981172
+minutes: 405,  take off prob: 0.7964216700463591
+minutes: 405, runway is not clear
+minutes: 406,  landing prob: 0.009325883079858377
+minutes: 406,  take off prob: 0.4195919593355981
+landing queue is not empty
+minutes: 406 plane Airplane@7c3df479 has crahed
+landing is dequeued
+minutes: 406 plane Airplane@7106e68e has crahed
+landing is dequeued
+landing is dequeued
+minutes: 406 plane Airplane@7eda2dbb has lannded
+minutes: 407,  landing prob: 0.41537393952325274
+minutes: 407,  take off prob: 0.21294509190442024
+minutes: 407, runway is not clear
+minutes: 408,  landing prob: 0.965588063836745
+minutes: 408,  take off prob: 0.6581554961678192
+minutes: 408, runway is not clear
+minutes: 409,  landing prob: 0.26272200375900434
+minutes: 409,  take off prob: 0.8619504539707386
+landing queue is not empty
+landing is dequeued
+minutes: 409 plane Airplane@6576fe71 has lannded
+minutes: 410,  landing prob: 0.41348152110655656
+minutes: 410,  take off prob: 0.7537796273562126
+minutes: 410, runway is not clear
+minutes: 411,  landing prob: 0.9399392284961343
+minutes: 411,  take off prob: 0.057179374242811165
+minutes: 411, runway is not clear
+minutes: 412,  landing prob: 0.32647073236751345
+minutes: 412,  take off prob: 0.37570565267344624
+landing queue is not empty
+landing is dequeued
+minutes: 412 plane Airplane@76fb509a has lannded
+minutes: 413,  landing prob: 0.4952845534863243
+minutes: 413,  take off prob: 0.6636896362559171
+minutes: 413, runway is not clear
+minutes: 414,  landing prob: 0.27137087198640253
+minutes: 414,  take off prob: 0.13920907403643357
+minutes: 414, runway is not clear
+minutes: 415,  landing prob: 0.9814979803802811
+minutes: 415,  take off prob: 0.2151958706546826
+landing queue is not empty
+minutes: 415 plane Airplane@300ffa5d has crahed
+landing is dequeued
+landing is dequeued
+minutes: 415 plane Airplane@1f17ae12 has lannded
+minutes: 416,  landing prob: 0.4299320920523124
+minutes: 416,  take off prob: 0.5774095985764726
+minutes: 416, runway is not clear
+minutes: 417,  landing prob: 0.0346385982867774
+minutes: 417,  take off prob: 0.4211384493167757
+minutes: 417, runway is not clear
+minutes: 418,  landing prob: 0.9012183736048801
+minutes: 418,  take off prob: 0.5429510595610426
+landing queue is not empty
+minutes: 418 plane Airplane@4d405ef7 has crahed
+landing is dequeued
+minutes: 418 plane Airplane@6193b845 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 418 plane Airplane@2e817b38 has lannded
+minutes: 419,  landing prob: 0.9465715399055041
+minutes: 419,  take off prob: 0.27474824848576207
+minutes: 419, runway is not clear
+minutes: 420,  landing prob: 0.38943326494686015
+minutes: 420,  take off prob: 0.42314213258154965
+minutes: 420, runway is not clear
+minutes: 421,  landing prob: 0.3940170303791203
+minutes: 421,  take off prob: 0.9820751450676427
+landing queue is not empty
+minutes: 421 plane Airplane@c4437c4 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 421 plane Airplane@433c675d has lannded
+minutes: 422,  landing prob: 0.6022936288256715
+minutes: 422,  take off prob: 0.13440201312269862
+minutes: 422, runway is not clear
+minutes: 423,  landing prob: 0.8906703143135127
+minutes: 423,  take off prob: 0.636830545955417
+minutes: 423, runway is not clear
+minutes: 424,  landing prob: 0.4685494538406636
+minutes: 424,  take off prob: 0.049268025622411726
+landing queue is not empty
+minutes: 424 plane Airplane@3f91beef has crahed
+landing is dequeued
+landing is dequeued
+minutes: 424 plane Airplane@1a6c5a9e has lannded
+minutes: 425,  landing prob: 0.20043662716232202
+minutes: 425,  take off prob: 0.46409832973995835
+minutes: 425, runway is not clear
+minutes: 426,  landing prob: 0.8170890444435873
+minutes: 426,  take off prob: 0.341674227488832
+minutes: 426, runway is not clear
+minutes: 427,  landing prob: 0.5607192263413903
+minutes: 427,  take off prob: 0.2936316528846524
+landing queue is not empty
+minutes: 427 plane Airplane@37bba400 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 427 plane Airplane@179d3b25 has lannded
+minutes: 428,  landing prob: 0.06902513804441746
+minutes: 428,  take off prob: 0.3966518633342455
+minutes: 428, runway is not clear
+minutes: 429,  landing prob: 0.8218944782813057
+minutes: 429,  take off prob: 0.6470043354679931
+minutes: 429, runway is not clear
+minutes: 430,  landing prob: 0.9164486485110316
+minutes: 430,  take off prob: 0.8370323619730127
+landing queue is not empty
+landing is dequeued
+minutes: 430 plane Airplane@254989ff has lannded
+minutes: 431,  landing prob: 0.25698024621878013
+minutes: 431,  take off prob: 0.6113283990110785
+minutes: 431, runway is not clear
+minutes: 432,  landing prob: 0.256212836097344
+minutes: 432,  take off prob: 0.06133702310509348
+minutes: 432, runway is not clear
+minutes: 433,  landing prob: 0.29139544806614415
+minutes: 433,  take off prob: 0.06440870385471076
+landing queue is not empty
+minutes: 433 plane Airplane@5d099f62 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 433 plane Airplane@37f8bb67 has lannded
+minutes: 434,  landing prob: 0.15812968918429637
+minutes: 434,  take off prob: 0.3228197947382434
+minutes: 434, runway is not clear
+minutes: 435,  landing prob: 0.5636112241961619
+minutes: 435,  take off prob: 0.7139929823377047
+minutes: 435, runway is not clear
+minutes: 436,  landing prob: 0.8797909849853369
+minutes: 436,  take off prob: 0.5553111939418106
+landing queue is not empty
+minutes: 436 plane Airplane@49c2faae has crahed
+landing is dequeued
+landing is dequeued
+minutes: 436 plane Airplane@20ad9418 has lannded
+minutes: 437,  landing prob: 0.09397168220201901
+minutes: 437,  take off prob: 0.608090839848312
+minutes: 437, runway is not clear
+minutes: 438,  landing prob: 0.28333984260638767
+minutes: 438,  take off prob: 0.9925283937926729
+minutes: 438, runway is not clear
+minutes: 439,  landing prob: 0.1236261627436146
+minutes: 439,  take off prob: 0.9703142587444403
+landing queue is not empty
+landing is dequeued
+minutes: 439 plane Airplane@31cefde0 has lannded
+minutes: 440,  landing prob: 0.4094886567195144
+minutes: 440,  take off prob: 0.6436968299202976
+minutes: 440, runway is not clear
+minutes: 441,  landing prob: 0.05963667943173179
+minutes: 441,  take off prob: 0.20868114905194413
+minutes: 441, runway is not clear
+minutes: 442,  landing prob: 0.7750645430039997
+minutes: 442,  take off prob: 0.1322493938568835
+landing queue is not empty
+landing is dequeued
+minutes: 442 plane Airplane@439f5b3d has lannded
+minutes: 443,  landing prob: 0.7647700417879465
+minutes: 443,  take off prob: 0.13723663143313325
+minutes: 443, runway is not clear
+minutes: 444,  landing prob: 0.24972437703372596
+minutes: 444,  take off prob: 0.18981576676390033
+minutes: 444, runway is not clear
+minutes: 445,  landing prob: 0.4480142892625275
+minutes: 445,  take off prob: 0.9376958830594465
+landing queue is not empty
+minutes: 445 plane Airplane@1d56ce6a has crahed
+landing is dequeued
+minutes: 445 plane Airplane@5197848c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 445 plane Airplane@17f052a3 has lannded
+minutes: 446,  landing prob: 0.49262892544341585
+minutes: 446,  take off prob: 0.8135350880293422
+minutes: 446, runway is not clear
+minutes: 447,  landing prob: 0.965112216049514
+minutes: 447,  take off prob: 0.5799867030829046
+minutes: 447, runway is not clear
+minutes: 448,  landing prob: 0.27637527384402727
+minutes: 448,  take off prob: 0.5408356725778561
+landing queue is not empty
+landing is dequeued
+minutes: 448 plane Airplane@2e0fa5d3 has lannded
+minutes: 449,  landing prob: 0.8686978822830919
+minutes: 449,  take off prob: 0.00966352328723541
+minutes: 449, runway is not clear
+minutes: 450,  landing prob: 0.1596135722628591
+minutes: 450,  take off prob: 0.05119578214792808
+minutes: 450, runway is not clear
+minutes: 451,  landing prob: 0.8754273014671431
+minutes: 451,  take off prob: 0.1548379832430966
+landing queue is not empty
+minutes: 451 plane Airplane@5010be6 has crahed
+landing is dequeued
+minutes: 451 plane Airplane@685f4c2e has crahed
+landing is dequeued
+landing is dequeued
+minutes: 451 plane Airplane@7daf6ecc has lannded
+minutes: 452,  landing prob: 0.9651225645367054
+minutes: 452,  take off prob: 0.617417334427187
+minutes: 452, runway is not clear
+minutes: 453,  landing prob: 0.026778005711538433
+minutes: 453,  take off prob: 0.5619869542171422
+minutes: 453, runway is not clear
+minutes: 454,  landing prob: 0.627687994986998
+minutes: 454,  take off prob: 0.7079037165031299
+landing queue is not empty
+landing is dequeued
+minutes: 454 plane Airplane@2e5d6d97 has lannded
+minutes: 455,  landing prob: 0.08740862847627451
+minutes: 455,  take off prob: 0.28613565994711454
+minutes: 455, runway is not clear
+minutes: 456,  landing prob: 0.7262783148798707
+minutes: 456,  take off prob: 0.7546826698594395
+minutes: 456, runway is not clear
+minutes: 457,  landing prob: 0.8363044732809378
+minutes: 457,  take off prob: 0.9636314404333167
+landing queue is not empty
+minutes: 457 plane Airplane@238e0d81 has crahed
+landing is dequeued
+minutes: 457 plane Airplane@31221be2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 457 plane Airplane@377dca04 has lannded
+minutes: 458,  landing prob: 0.7136802761692981
+minutes: 458,  take off prob: 0.367729965457702
+minutes: 458, runway is not clear
+minutes: 459,  landing prob: 0.5510690948672476
+minutes: 459,  take off prob: 0.814093849720172
+minutes: 459, runway is not clear
+minutes: 460,  landing prob: 0.8993968464289226
+minutes: 460,  take off prob: 0.9527284717185317
+landing queue is not empty
+landing is dequeued
+minutes: 460 plane Airplane@728938a9 has lannded
+minutes: 461,  landing prob: 0.8944697235216589
+minutes: 461,  take off prob: 0.7142370054463506
+minutes: 461, runway is not clear
+minutes: 462,  landing prob: 0.40739191771732175
+minutes: 462,  take off prob: 0.0833874983656886
+minutes: 462, runway is not clear
+minutes: 463,  landing prob: 0.37949334653069833
+minutes: 463,  take off prob: 0.48505730758946397
+landing queue is not empty
+landing is dequeued
+minutes: 463 plane Airplane@21b8d17c has lannded
+minutes: 464,  landing prob: 0.5527479877455154
+minutes: 464,  take off prob: 0.03198476153908347
+minutes: 464, runway is not clear
+minutes: 465,  landing prob: 0.2537181583794409
+minutes: 465,  take off prob: 0.06658272846294788
+minutes: 465, runway is not clear
+minutes: 466,  landing prob: 0.24335579509709937
+minutes: 466,  take off prob: 0.16654087272498241
+landing queue is not empty
+minutes: 466 plane Airplane@6433a2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 466 plane Airplane@5910e440 has lannded
+minutes: 467,  landing prob: 0.03582868994683697
+minutes: 467,  take off prob: 0.9990751648076817
+minutes: 467, runway is not clear
+minutes: 468,  landing prob: 0.9506814674297768
+minutes: 468,  take off prob: 0.2836403102574364
+minutes: 468, runway is not clear
+minutes: 469,  landing prob: 0.01976460478715647
+minutes: 469,  take off prob: 0.42205325320429254
+landing queue is not empty
+landing is dequeued
+minutes: 469 plane Airplane@6267c3bb has lannded
+minutes: 470,  landing prob: 0.0922508537639104
+minutes: 470,  take off prob: 0.9772694536717241
+minutes: 470, runway is not clear
+minutes: 471,  landing prob: 0.8128630980661163
+minutes: 471,  take off prob: 0.13836479321398099
+minutes: 471, runway is not clear
+minutes: 472,  landing prob: 0.2776691674130203
+minutes: 472,  take off prob: 0.8553079258084578
+landing queue is not empty
+landing is dequeued
+minutes: 472 plane Airplane@533ddba has lannded
+minutes: 473,  landing prob: 0.7527143451660251
+minutes: 473,  take off prob: 0.468199030943525
+minutes: 473, runway is not clear
+minutes: 474,  landing prob: 0.5901402504426605
+minutes: 474,  take off prob: 0.5173096478190023
+minutes: 474, runway is not clear
+minutes: 475,  landing prob: 0.25262685934300233
+minutes: 475,  take off prob: 0.007500716412864539
+landing queue is not empty
+landing is dequeued
+minutes: 475 plane Airplane@246b179d has lannded
+minutes: 476,  landing prob: 0.6406901454519586
+minutes: 476,  take off prob: 0.4699689741087285
+minutes: 476, runway is not clear
+minutes: 477,  landing prob: 0.7368921945065214
+minutes: 477,  take off prob: 0.4840334512599468
+minutes: 477, runway is not clear
+minutes: 478,  landing prob: 0.29503383503926073
+minutes: 478,  take off prob: 0.2396221550434252
+landing queue is not empty
+minutes: 478 plane Airplane@7a07c5b4 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 478 plane Airplane@26a1ab54 has lannded
+minutes: 479,  landing prob: 0.8794339401313841
+minutes: 479,  take off prob: 0.8842186563849234
+minutes: 479, runway is not clear
+minutes: 480,  landing prob: 0.9619455867634351
+minutes: 480,  take off prob: 0.8502394128846893
+minutes: 480, runway is not clear
+minutes: 481,  landing prob: 0.5584518341269842
+minutes: 481,  take off prob: 0.9825016228157459
+landing queue is not empty
+minutes: 481 plane Airplane@3d646c37 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 481 plane Airplane@41cf53f9 has lannded
+minutes: 482,  landing prob: 0.010373545426946795
+minutes: 482,  take off prob: 0.9231922789624023
+minutes: 482, runway is not clear
+minutes: 483,  landing prob: 0.37887621573694197
+minutes: 483,  take off prob: 0.061870309025493175
+minutes: 483, runway is not clear
+minutes: 484,  landing prob: 0.5931505203824788
+minutes: 484,  take off prob: 0.521067029870751
+landing queue is not empty
+landing is dequeued
+minutes: 484 plane Airplane@5a10411 has lannded
+minutes: 485,  landing prob: 0.7237761966203029
+minutes: 485,  take off prob: 0.31943462827003066
+minutes: 485, runway is not clear
+minutes: 486,  landing prob: 0.8610108933711943
+minutes: 486,  take off prob: 0.08817451060947012
+minutes: 486, runway is not clear
+minutes: 487,  landing prob: 0.8026929336945058
+minutes: 487,  take off prob: 0.17117923513156585
+landing queue is not empty
+landing is dequeued
+minutes: 487 plane Airplane@2ef1e4fa has lannded
+minutes: 488,  landing prob: 0.08226124015531389
+minutes: 488,  take off prob: 0.004247432046561861
+minutes: 488, runway is not clear
+minutes: 489,  landing prob: 0.17275741859033078
+minutes: 489,  take off prob: 0.9579201421338388
+minutes: 489, runway is not clear
+minutes: 490,  landing prob: 0.049095314910777677
+minutes: 490,  take off prob: 0.10674045660998233
+landing queue is not empty
+landing is dequeued
+minutes: 490 plane Airplane@306a30c7 has lannded
+minutes: 491,  landing prob: 0.6625959239411878
+minutes: 491,  take off prob: 0.5696339951833588
+minutes: 491, runway is not clear
+minutes: 492,  landing prob: 0.7551039121372717
+minutes: 492,  take off prob: 0.5193653153955304
+minutes: 492, runway is not clear
+minutes: 493,  landing prob: 0.3160675202854495
+minutes: 493,  take off prob: 0.8564700232737548
+landing queue is not empty
+landing is dequeued
+minutes: 493 plane Airplane@b81eda8 has lannded
+minutes: 494,  landing prob: 0.7148610212740586
+minutes: 494,  take off prob: 0.4698209786350833
+minutes: 494, runway is not clear
+minutes: 495,  landing prob: 0.003911048658619021
+minutes: 495,  take off prob: 0.14254783030449525
+minutes: 495, runway is not clear
+minutes: 496,  landing prob: 0.14740107081743203
+minutes: 496,  take off prob: 0.7536780336572576
+landing queue is not empty
+landing is dequeued
+minutes: 496 plane Airplane@68de145 has lannded
+minutes: 497,  landing prob: 0.6148385074979739
+minutes: 497,  take off prob: 0.47816788322003834
+minutes: 497, runway is not clear
+minutes: 498,  landing prob: 0.7383746832989406
+minutes: 498,  take off prob: 0.1051900206761558
+minutes: 498, runway is not clear
+minutes: 499,  landing prob: 0.14601375556822505
+minutes: 499,  take off prob: 0.11875497454105333
+landing queue is not empty
+landing is dequeued
+minutes: 499 plane Airplane@27fa135a has lannded
+minutes: 500,  landing prob: 0.5424678963317643
+minutes: 500,  take off prob: 0.3834342398307592
+minutes: 500, runway is not clear
+minutes: 501,  landing prob: 0.3041582677040524
+minutes: 501,  take off prob: 0.9575917978317984
+minutes: 501, runway is not clear
+minutes: 502,  landing prob: 0.8842841486848007
+minutes: 502,  take off prob: 0.0798474861464965
+landing queue is not empty
+minutes: 502 plane Airplane@46f7f36a has crahed
+landing is dequeued
+landing is dequeued
+minutes: 502 plane Airplane@421faab1 has lannded
+minutes: 503,  landing prob: 0.23768903514071782
+minutes: 503,  take off prob: 0.29040763761343624
+minutes: 503, runway is not clear
+minutes: 504,  landing prob: 0.5327584039627539
+minutes: 504,  take off prob: 0.9571883611221604
+minutes: 504, runway is not clear
+minutes: 505,  landing prob: 0.7491856563424091
+minutes: 505,  take off prob: 0.25767391447307164
+landing queue is not empty
+landing is dequeued
+minutes: 505 plane Airplane@2b71fc7e has lannded
+minutes: 506,  landing prob: 0.44636135679382316
+minutes: 506,  take off prob: 0.3362384754781661
+minutes: 506, runway is not clear
+minutes: 507,  landing prob: 0.46225726166572867
+minutes: 507,  take off prob: 0.7323792883247486
+minutes: 507, runway is not clear
+minutes: 508,  landing prob: 0.7260028903877697
+minutes: 508,  take off prob: 0.3508901366419328
+landing queue is not empty
+minutes: 508 plane Airplane@5ce65a89 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 508 plane Airplane@25f38edc has lannded
+minutes: 509,  landing prob: 0.03465794711765169
+minutes: 509,  take off prob: 0.8644590312512094
+minutes: 509, runway is not clear
+minutes: 510,  landing prob: 0.8436030682846885
+minutes: 510,  take off prob: 0.2431870808073192
+minutes: 510, runway is not clear
+minutes: 511,  landing prob: 0.5651714865788964
+minutes: 511,  take off prob: 0.09816143191806193
+landing queue is not empty
+landing is dequeued
+minutes: 511 plane Airplane@1a86f2f1 has lannded
+minutes: 512,  landing prob: 0.45118373119702293
+minutes: 512,  take off prob: 0.4844465417264717
+minutes: 512, runway is not clear
+minutes: 513,  landing prob: 0.06290987078170096
+minutes: 513,  take off prob: 0.7189868147853007
+minutes: 513, runway is not clear
+minutes: 514,  landing prob: 0.6586468085549003
+minutes: 514,  take off prob: 0.8781070273364127
+landing queue is not empty
+minutes: 514 plane Airplane@3eb07fd3 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 514 plane Airplane@506c589e has lannded
+minutes: 515,  landing prob: 0.16073871591313538
+minutes: 515,  take off prob: 0.3456023662806097
+minutes: 515, runway is not clear
+minutes: 516,  landing prob: 0.6730931240526141
+minutes: 516,  take off prob: 0.13342360956805122
+minutes: 516, runway is not clear
+minutes: 517,  landing prob: 0.5242112642431689
+minutes: 517,  take off prob: 0.7349253200724604
+landing queue is not empty
+landing is dequeued
+minutes: 517 plane Airplane@69d0a921 has lannded
+minutes: 518,  landing prob: 0.38209677918366847
+minutes: 518,  take off prob: 0.90397859501408
+minutes: 518, runway is not clear
+minutes: 519,  landing prob: 0.6762091217359855
+minutes: 519,  take off prob: 0.39853093695279473
+minutes: 519, runway is not clear
+minutes: 520,  landing prob: 0.10581057831676877
+minutes: 520,  take off prob: 0.594276853421996
+landing queue is not empty
+minutes: 520 plane Airplane@446cdf90 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 520 plane Airplane@799f7e29 has lannded
+minutes: 521,  landing prob: 0.08676692853384615
+minutes: 521,  take off prob: 0.4465437022306006
+minutes: 521, runway is not clear
+minutes: 522,  landing prob: 0.8920572880805752
+minutes: 522,  take off prob: 0.5497112029222812
+minutes: 522, runway is not clear
+minutes: 523,  landing prob: 0.06041322349846212
+minutes: 523,  take off prob: 0.013117794206992106
+landing queue is not empty
+landing is dequeued
+minutes: 523 plane Airplane@4b85612c has lannded
+minutes: 524,  landing prob: 0.6883555931454924
+minutes: 524,  take off prob: 0.9036212599820064
+minutes: 524, runway is not clear
+minutes: 525,  landing prob: 0.49711443816004275
+minutes: 525,  take off prob: 0.03786992252683974
+minutes: 525, runway is not clear
+minutes: 526,  landing prob: 0.2560647158610394
+minutes: 526,  take off prob: 0.5110470749677579
+landing queue is not empty
+minutes: 526 plane Airplane@277050dc has crahed
+landing is dequeued
+landing is dequeued
+minutes: 526 plane Airplane@5c29bfd has lannded
+minutes: 527,  landing prob: 0.8709027214881857
+minutes: 527,  take off prob: 0.08303258333561003
+minutes: 527, runway is not clear
+minutes: 528,  landing prob: 0.7333650712114849
+minutes: 528,  take off prob: 0.5309348321055538
+minutes: 528, runway is not clear
+minutes: 529,  landing prob: 0.8717935152921874
+minutes: 529,  take off prob: 0.4693993135785275
+landing queue is not empty
+landing is dequeued
+minutes: 529 plane Airplane@7aec35a has lannded
+minutes: 530,  landing prob: 0.5471898835515093
+minutes: 530,  take off prob: 0.44048180506566126
+minutes: 530, runway is not clear
+minutes: 531,  landing prob: 0.5325007918189174
+minutes: 531,  take off prob: 0.4485257661869122
+minutes: 531, runway is not clear
+minutes: 532,  landing prob: 0.15769099763938987
+minutes: 532,  take off prob: 0.9689682864056708
+landing queue is not empty
+minutes: 532 plane Airplane@67424e82 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 532 plane Airplane@42110406 has lannded
+minutes: 533,  landing prob: 0.19573737743554376
+minutes: 533,  take off prob: 0.6058425027760758
+minutes: 533, runway is not clear
+minutes: 534,  landing prob: 0.3588842053283776
+minutes: 534,  take off prob: 0.0649272521751052
+minutes: 534, runway is not clear
+minutes: 535,  landing prob: 0.6480283509575699
+minutes: 535,  take off prob: 0.840952189342729
+landing queue is not empty
+landing is dequeued
+minutes: 535 plane Airplane@531d72ca has lannded
+minutes: 536,  landing prob: 0.893559850872374
+minutes: 536,  take off prob: 0.005175785629418894
+minutes: 536, runway is not clear
+minutes: 537,  landing prob: 0.6144284656789614
+minutes: 537,  take off prob: 0.07384903929812092
+minutes: 537, runway is not clear
+minutes: 538,  landing prob: 0.494934535138407
+minutes: 538,  take off prob: 0.8446318725793462
+landing queue is not empty
+minutes: 538 plane Airplane@22d8cfe0 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 538 plane Airplane@579bb367 has lannded
+minutes: 539,  landing prob: 0.9378354910501997
+minutes: 539,  take off prob: 0.3275128185533117
+minutes: 539, runway is not clear
+minutes: 540,  landing prob: 0.3027783790475962
+minutes: 540,  take off prob: 0.11111148436439977
+minutes: 540, runway is not clear
+minutes: 541,  landing prob: 0.9395393606056052
+minutes: 541,  take off prob: 0.542130880022227
+landing queue is not empty
+landing is dequeued
+minutes: 541 plane Airplane@1de0aca6 has lannded
+minutes: 542,  landing prob: 0.09121457929998278
+minutes: 542,  take off prob: 0.43997329108944616
+minutes: 542, runway is not clear
+minutes: 543,  landing prob: 0.7513387320003905
+minutes: 543,  take off prob: 0.1924053631171777
+minutes: 543, runway is not clear
+minutes: 544,  landing prob: 0.9574353697370591
+minutes: 544,  take off prob: 0.340756624682665
+landing queue is not empty
+landing is dequeued
+minutes: 544 plane Airplane@255316f2 has lannded
+minutes: 545,  landing prob: 0.9598516902409593
+minutes: 545,  take off prob: 0.4368156629234975
+minutes: 545, runway is not clear
+minutes: 546,  landing prob: 0.8523135407567161
+minutes: 546,  take off prob: 0.7637345299207444
+minutes: 546, runway is not clear
+minutes: 547,  landing prob: 0.9142428742280586
+minutes: 547,  take off prob: 0.619729423840439
+landing queue is not empty
+landing is dequeued
+minutes: 547 plane Airplane@41906a77 has lannded
+minutes: 548,  landing prob: 0.5725406125966839
+minutes: 548,  take off prob: 0.9684699507273901
+minutes: 548, runway is not clear
+minutes: 549,  landing prob: 0.6053321227826542
+minutes: 549,  take off prob: 0.8832298218727405
+minutes: 549, runway is not clear
+minutes: 550,  landing prob: 0.4581376834894464
+minutes: 550,  take off prob: 0.3302333967114762
+landing queue is not empty
+landing is dequeued
+minutes: 550 plane Airplane@4b9af9a9 has lannded
+minutes: 551,  landing prob: 0.4959089890628895
+minutes: 551,  take off prob: 0.28531016151138233
+minutes: 551, runway is not clear
+minutes: 552,  landing prob: 0.9288724588663444
+minutes: 552,  take off prob: 0.1275759951735157
+minutes: 552, runway is not clear
+minutes: 553,  landing prob: 0.40021423312851245
+minutes: 553,  take off prob: 0.7064753646685337
+landing queue is not empty
+minutes: 553 plane Airplane@5387f9e0 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 553 plane Airplane@6e5e91e4 has lannded
+minutes: 554,  landing prob: 0.9917081587246885
+minutes: 554,  take off prob: 0.8611373783580909
+minutes: 554, runway is not clear
+minutes: 555,  landing prob: 0.9482813195807023
+minutes: 555,  take off prob: 0.3180228210361812
+minutes: 555, runway is not clear
+minutes: 556,  landing prob: 0.9891098250704808
+minutes: 556,  take off prob: 0.08858851511557275
+landing queue is not empty
+landing is dequeued
+minutes: 556 plane Airplane@2cdf8d8a has lannded
+minutes: 557,  landing prob: 0.22910386247702907
+minutes: 557,  take off prob: 0.6454794458178651
+minutes: 557, runway is not clear
+minutes: 558,  landing prob: 0.6552833932882071
+minutes: 558,  take off prob: 0.7651082368014724
+minutes: 558, runway is not clear
+minutes: 559,  landing prob: 0.16117425349747017
+minutes: 559,  take off prob: 0.10551748130701544
+landing queue is not empty
+landing is dequeued
+minutes: 559 plane Airplane@30946e09 has lannded
+minutes: 560,  landing prob: 0.42586410768932137
+minutes: 560,  take off prob: 0.23336575254416447
+minutes: 560, runway is not clear
+minutes: 561,  landing prob: 0.18324435258204708
+minutes: 561,  take off prob: 0.044418969414300014
+minutes: 561, runway is not clear
+minutes: 562,  landing prob: 0.8949401930740677
+minutes: 562,  take off prob: 0.9575715516706476
+landing queue is not empty
+landing is dequeued
+minutes: 562 plane Airplane@5cb0d902 has lannded
+minutes: 563,  landing prob: 0.5925729926511077
+minutes: 563,  take off prob: 0.2757076917735607
+minutes: 563, runway is not clear
+minutes: 564,  landing prob: 0.4982715101684607
+minutes: 564,  take off prob: 0.408843749153342
+minutes: 564, runway is not clear
+minutes: 565,  landing prob: 0.8952453500734131
+minutes: 565,  take off prob: 0.4064572959036944
+landing queue is not empty
+landing is dequeued
+minutes: 565 plane Airplane@46fbb2c1 has lannded
+minutes: 566,  landing prob: 0.022878577187915417
+minutes: 566,  take off prob: 0.9357940425542878
+minutes: 566, runway is not clear
+minutes: 567,  landing prob: 0.040221518504347964
+minutes: 567,  take off prob: 0.2382297309106315
+minutes: 567, runway is not clear
+minutes: 568,  landing prob: 0.16929929197571914
+minutes: 568,  take off prob: 0.2020410871378655
+landing queue is not empty
+landing is dequeued
+minutes: 568 plane Airplane@1698c449 has lannded
+minutes: 569,  landing prob: 0.26954052567487063
+minutes: 569,  take off prob: 0.15606719031265293
+minutes: 569, runway is not clear
+minutes: 570,  landing prob: 0.7587760875069766
+minutes: 570,  take off prob: 0.8730246729939017
+minutes: 570, runway is not clear
+minutes: 571,  landing prob: 0.13771006643226935
+minutes: 571,  take off prob: 0.24635258508954228
+landing queue is not empty
+landing is dequeued
+minutes: 571 plane Airplane@5ef04b5 has lannded
+minutes: 572,  landing prob: 0.5293743776468577
+minutes: 572,  take off prob: 0.9039316655019349
+minutes: 572, runway is not clear
+minutes: 573,  landing prob: 0.5959767803541092
+minutes: 573,  take off prob: 0.7766140497265313
+minutes: 573, runway is not clear
+minutes: 574,  landing prob: 0.7425443056385275
+minutes: 574,  take off prob: 0.6500605543022593
+landing queue is not empty
+landing is dequeued
+minutes: 574 plane Airplane@5f4da5c3 has lannded
+minutes: 575,  landing prob: 0.46582803550502294
+minutes: 575,  take off prob: 0.37548833442151375
+minutes: 575, runway is not clear
+minutes: 576,  landing prob: 0.1026585669915756
+minutes: 576,  take off prob: 0.5352398656355865
+minutes: 576, runway is not clear
+minutes: 577,  landing prob: 0.7762475220512166
+minutes: 577,  take off prob: 0.11872009217215707
+landing queue is not empty
+minutes: 577 plane Airplane@443b7951 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 577 plane Airplane@14514713 has lannded
+minutes: 578,  landing prob: 0.29526725578682655
+minutes: 578,  take off prob: 0.24765787611861279
+minutes: 578, runway is not clear
+minutes: 579,  landing prob: 0.3908226532548936
+minutes: 579,  take off prob: 0.5953697931286498
+minutes: 579, runway is not clear
+minutes: 580,  landing prob: 0.4614317474814462
+minutes: 580,  take off prob: 0.33227984368223873
+landing queue is not empty
+minutes: 580 plane Airplane@69663380 has crahed
+landing is dequeued
+minutes: 580 plane Airplane@5b37e0d2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 580 plane Airplane@4459eb14 has lannded
+minutes: 581,  landing prob: 0.43495178876053653
+minutes: 581,  take off prob: 0.29801850714663003
+minutes: 581, runway is not clear
+minutes: 582,  landing prob: 0.13387577933720363
+minutes: 582,  take off prob: 0.026060553602581416
+minutes: 582, runway is not clear
+minutes: 583,  landing prob: 0.45940943143577406
+minutes: 583,  take off prob: 0.3737324616490034
+landing queue is not empty
+landing is dequeued
+minutes: 583 plane Airplane@5a2e4553 has lannded
+minutes: 584,  landing prob: 0.4377120747679918
+minutes: 584,  take off prob: 0.7760216866372941
+minutes: 584, runway is not clear
+minutes: 585,  landing prob: 0.7566807683640034
+minutes: 585,  take off prob: 0.07657831353425326
+minutes: 585, runway is not clear
+minutes: 586,  landing prob: 0.9152617483679186
+minutes: 586,  take off prob: 0.6816915848371694
+landing queue is not empty
+landing is dequeued
+minutes: 586 plane Airplane@28c97a5 has lannded
+minutes: 587,  landing prob: 0.5660401569402544
+minutes: 587,  take off prob: 0.1182219130545401
+minutes: 587, runway is not clear
+minutes: 588,  landing prob: 0.41579612137697386
+minutes: 588,  take off prob: 0.8161540018601184
+minutes: 588, runway is not clear
+minutes: 589,  landing prob: 0.04253363738307514
+minutes: 589,  take off prob: 0.4869140709366442
+landing queue is not empty
+minutes: 589 plane Airplane@6659c656 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 589 plane Airplane@6d5380c2 has lannded
+minutes: 590,  landing prob: 0.33309184381707213
+minutes: 590,  take off prob: 0.8645436707392563
+minutes: 590, runway is not clear
+minutes: 591,  landing prob: 0.5922382554565786
+minutes: 591,  take off prob: 0.023653170319965167
+minutes: 591, runway is not clear
+minutes: 592,  landing prob: 0.24202443677800056
+minutes: 592,  take off prob: 0.4691455600711121
+landing queue is not empty
+minutes: 592 plane Airplane@45ff54e6 has crahed
+landing is dequeued
+minutes: 592 plane Airplane@2328c243 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 592 plane Airplane@bebdb06 has lannded
+minutes: 593,  landing prob: 0.5950580529374595
+minutes: 593,  take off prob: 0.5623359184504539
+minutes: 593, runway is not clear
+minutes: 594,  landing prob: 0.13433925753116038
+minutes: 594,  take off prob: 0.38281019969982344
+minutes: 594, runway is not clear
+minutes: 595,  landing prob: 0.5699597358841788
+minutes: 595,  take off prob: 0.6268439979065296
+landing queue is not empty
+minutes: 595 plane Airplane@7a4f0f29 has crahed
+landing is dequeued
+minutes: 595 plane Airplane@45283ce2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 595 plane Airplane@2077d4de has lannded
+minutes: 596,  landing prob: 0.490949745274908
+minutes: 596,  take off prob: 0.37178468005495613
+minutes: 596, runway is not clear
+minutes: 597,  landing prob: 0.4245748010405056
+minutes: 597,  take off prob: 0.5732143490494781
+minutes: 597, runway is not clear
+minutes: 598,  landing prob: 0.9217201644558431
+minutes: 598,  take off prob: 0.09402147884316758
+landing queue is not empty
+landing is dequeued
+minutes: 598 plane Airplane@7591083d has lannded
+minutes: 599,  landing prob: 0.8072588837736536
+minutes: 599,  take off prob: 0.48687731352641495
+minutes: 599, runway is not clear
+minutes: 600,  landing prob: 0.7902084950123064
+minutes: 600,  take off prob: 0.9354570180844722
+minutes: 600, runway is not clear
+minutes: 601,  landing prob: 0.22530730347775096
+minutes: 601,  take off prob: 0.8933220515236232
+landing queue is not empty
+minutes: 601 plane Airplane@77a567e1 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 601 plane Airplane@736e9adb has lannded
+minutes: 602,  landing prob: 0.5901771705633679
+minutes: 602,  take off prob: 0.8206691975394312
+minutes: 602, runway is not clear
+minutes: 603,  landing prob: 0.9347979566423572
+minutes: 603,  take off prob: 0.1554480837042903
+minutes: 603, runway is not clear
+minutes: 604,  landing prob: 0.9999621516837771
+minutes: 604,  take off prob: 0.5471979256763928
+landing queue is not empty
+landing is dequeued
+minutes: 604 plane Airplane@6d21714c has lannded
+minutes: 605,  landing prob: 0.514654242034122
+minutes: 605,  take off prob: 0.3470712808859847
+minutes: 605, runway is not clear
+minutes: 606,  landing prob: 0.9820869963801666
+minutes: 606,  take off prob: 0.5054224011269741
+minutes: 606, runway is not clear
+minutes: 607,  landing prob: 0.2564043870863628
+minutes: 607,  take off prob: 0.731000676644944
+landing queue is not empty
+minutes: 607 plane Airplane@108c4c35 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 607 plane Airplane@4ccabbaa has lannded
+minutes: 608,  landing prob: 0.4103580347854111
+minutes: 608,  take off prob: 0.9025449100775244
+minutes: 608, runway is not clear
+minutes: 609,  landing prob: 0.5727471814985411
+minutes: 609,  take off prob: 0.9789761029807209
+minutes: 609, runway is not clear
+minutes: 610,  landing prob: 0.16236413276596062
+minutes: 610,  take off prob: 0.8884296849626157
+landing queue is not empty
+landing is dequeued
+minutes: 610 plane Airplane@4bf558aa has lannded
+minutes: 611,  landing prob: 0.9046309005621919
+minutes: 611,  take off prob: 0.3899390615109747
+minutes: 611, runway is not clear
+minutes: 612,  landing prob: 0.35322439718189513
+minutes: 612,  take off prob: 0.9262692252834466
+minutes: 612, runway is not clear
+minutes: 613,  landing prob: 0.5937250847537232
+minutes: 613,  take off prob: 0.2288203990109946
+landing queue is not empty
+landing is dequeued
+minutes: 613 plane Airplane@2d38eb89 has lannded
+minutes: 614,  landing prob: 0.9359386459693527
+minutes: 614,  take off prob: 0.6654336484510586
+minutes: 614, runway is not clear
+minutes: 615,  landing prob: 0.008343471478712616
+minutes: 615,  take off prob: 0.002315522923772795
+minutes: 615, runway is not clear
+minutes: 616,  landing prob: 0.45835421938951537
+minutes: 616,  take off prob: 0.8079024491483779
+landing queue is not empty
+landing is dequeued
+minutes: 616 plane Airplane@5fa7e7ff has lannded
+minutes: 617,  landing prob: 0.3153923806178405
+minutes: 617,  take off prob: 0.6625401811621235
+minutes: 617, runway is not clear
+minutes: 618,  landing prob: 0.014365963141583116
+minutes: 618,  take off prob: 0.7956754158712935
+minutes: 618, runway is not clear
+minutes: 619,  landing prob: 0.6548893933775235
+minutes: 619,  take off prob: 0.5167198106410035
+landing queue is not empty
+landing is dequeued
+minutes: 619 plane Airplane@4629104a has lannded
+minutes: 620,  landing prob: 0.13304916325361937
+minutes: 620,  take off prob: 0.5223008315463804
+minutes: 620, runway is not clear
+minutes: 621,  landing prob: 0.9847276600123667
+minutes: 621,  take off prob: 0.35768992032427493
+minutes: 621, runway is not clear
+minutes: 622,  landing prob: 0.7197897192321193
+minutes: 622,  take off prob: 0.7659659867131386
+landing queue is not empty
+landing is dequeued
+minutes: 622 plane Airplane@27f8302d has lannded
+minutes: 623,  landing prob: 0.4364801196202662
+minutes: 623,  take off prob: 0.9565062257884966
+minutes: 623, runway is not clear
+minutes: 624,  landing prob: 0.5119708737835734
+minutes: 624,  take off prob: 0.650436916213533
+minutes: 624, runway is not clear
+minutes: 625,  landing prob: 0.26379533715123193
+minutes: 625,  take off prob: 0.971079685502983
+landing queue is not empty
+landing is dequeued
+minutes: 625 plane Airplane@4d76f3f8 has lannded
+minutes: 626,  landing prob: 0.26742224069692944
+minutes: 626,  take off prob: 0.47744329684230835
+minutes: 626, runway is not clear
+minutes: 627,  landing prob: 0.9307814857955077
+minutes: 627,  take off prob: 0.8878251843281929
+minutes: 627, runway is not clear
+minutes: 628,  landing prob: 0.12492297967153854
+minutes: 628,  take off prob: 0.4473657581379591
+landing queue is not empty
+minutes: 628 plane Airplane@2d8e6db6 has crahed
+landing is dequeued
+minutes: 628 plane Airplane@23ab930d has crahed
+landing is dequeued
+landing is dequeued
+minutes: 628 plane Airplane@4534b60d has lannded
+minutes: 629,  landing prob: 0.2217100174478055
+minutes: 629,  take off prob: 0.5798184130600927
+minutes: 629, runway is not clear
+minutes: 630,  landing prob: 0.32216806415969756
+minutes: 630,  take off prob: 0.9678736158540884
+minutes: 630, runway is not clear
+minutes: 631,  landing prob: 0.9908312500570188
+minutes: 631,  take off prob: 0.062092357020173794
+landing queue is not empty
+minutes: 631 plane Airplane@3fa77460 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 631 plane Airplane@619a5dff has lannded
+minutes: 632,  landing prob: 0.934244479957106
+minutes: 632,  take off prob: 0.5214328891639409
+minutes: 632, runway is not clear
+minutes: 633,  landing prob: 0.6757274922063168
+minutes: 633,  take off prob: 0.8290321950401254
+minutes: 633, runway is not clear
+minutes: 634,  landing prob: 0.10436929337730871
+minutes: 634,  take off prob: 0.45043245942065613
+landing queue is not empty
+landing is dequeued
+minutes: 634 plane Airplane@1ed6993a has lannded
+minutes: 635,  landing prob: 0.15450697077346365
+minutes: 635,  take off prob: 0.05668705028858023
+minutes: 635, runway is not clear
+minutes: 636,  landing prob: 0.2279799411049005
+minutes: 636,  take off prob: 0.518283924362614
+minutes: 636, runway is not clear
+minutes: 637,  landing prob: 0.0323786498921782
+minutes: 637,  take off prob: 0.9144527602824044
+landing queue is not empty
+minutes: 637 plane Airplane@7e32c033 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 637 plane Airplane@7ab2bfe1 has lannded
+minutes: 638,  landing prob: 0.10237935107661489
+minutes: 638,  take off prob: 0.3351328445995614
+minutes: 638, runway is not clear
+minutes: 639,  landing prob: 0.08323006747198447
+minutes: 639,  take off prob: 0.03595612874534826
+minutes: 639, runway is not clear
+minutes: 640,  landing prob: 0.649782325756609
+minutes: 640,  take off prob: 0.4940474279938304
+landing queue is not empty
+minutes: 640 plane Airplane@497470ed has crahed
+landing is dequeued
+landing is dequeued
+minutes: 640 plane Airplane@63c12fb0 has lannded
+minutes: 641,  landing prob: 0.38355645906120583
+minutes: 641,  take off prob: 0.3265154667010476
+minutes: 641, runway is not clear
+minutes: 642,  landing prob: 0.696995981079886
+minutes: 642,  take off prob: 0.44949562895916506
+minutes: 642, runway is not clear
+minutes: 643,  landing prob: 0.23987853417268667
+minutes: 643,  take off prob: 0.926596024965649
+landing queue is not empty
+landing is dequeued
+minutes: 643 plane Airplane@b1a58a3 has lannded
+minutes: 644,  landing prob: 0.6732491998188879
+minutes: 644,  take off prob: 0.7528988549234493
+minutes: 644, runway is not clear
+minutes: 645,  landing prob: 0.13439892558056576
+minutes: 645,  take off prob: 0.026768201923963897
+minutes: 645, runway is not clear
+minutes: 646,  landing prob: 0.010329422257915555
+minutes: 646,  take off prob: 0.9224718144099171
+landing queue is not empty
+minutes: 646 plane Airplane@6438a396 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 646 plane Airplane@e2144e4 has lannded
+minutes: 647,  landing prob: 0.28276749119001365
+minutes: 647,  take off prob: 0.08833952128689704
+minutes: 647, runway is not clear
+minutes: 648,  landing prob: 0.8172690008441679
+minutes: 648,  take off prob: 0.42004416288678514
+minutes: 648, runway is not clear
+minutes: 649,  landing prob: 0.22180014467379228
+minutes: 649,  take off prob: 0.10389496227906558
+landing queue is not empty
+minutes: 649 plane Airplane@6477463f has crahed
+landing is dequeued
+minutes: 649 plane Airplane@3d71d552 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 649 plane Airplane@1cf4f579 has lannded
+minutes: 650,  landing prob: 0.9379262000228422
+minutes: 650,  take off prob: 0.6936766144205165
+minutes: 650, runway is not clear
+minutes: 651,  landing prob: 0.3345571406914454
+minutes: 651,  take off prob: 0.9433603861443365
+minutes: 651, runway is not clear
+minutes: 652,  landing prob: 0.4618433666942853
+minutes: 652,  take off prob: 0.35851967807401974
+landing queue is not empty
+minutes: 652 plane Airplane@18769467 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 652 plane Airplane@46ee7fe8 has lannded
+minutes: 653,  landing prob: 0.353287056672821
+minutes: 653,  take off prob: 0.047300250847493674
+minutes: 653, runway is not clear
+minutes: 654,  landing prob: 0.3796115553843846
+minutes: 654,  take off prob: 0.8688872668652601
+minutes: 654, runway is not clear
+minutes: 655,  landing prob: 0.6634904420975272
+minutes: 655,  take off prob: 0.9320533134101152
+landing queue is not empty
+landing is dequeued
+minutes: 655 plane Airplane@7506e922 has lannded
+minutes: 656,  landing prob: 0.5547636089865938
+minutes: 656,  take off prob: 0.318499010948867
+minutes: 656, runway is not clear
+minutes: 657,  landing prob: 0.9443568708779717
+minutes: 657,  take off prob: 0.2790562961206917
+minutes: 657, runway is not clear
+minutes: 658,  landing prob: 0.03816623533473129
+minutes: 658,  take off prob: 0.7474138454168179
+landing queue is not empty
+minutes: 658 plane Airplane@4ee285c6 has crahed
+landing is dequeued
+minutes: 658 plane Airplane@621be5d1 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 658 plane Airplane@573fd745 has lannded
+minutes: 659,  landing prob: 0.6922056088231185
+minutes: 659,  take off prob: 0.14096358642548934
+minutes: 659, runway is not clear
+minutes: 660,  landing prob: 0.9704441548679839
+minutes: 660,  take off prob: 0.16645788634395586
+minutes: 660, runway is not clear
+minutes: 661,  landing prob: 0.6641489339636615
+minutes: 661,  take off prob: 0.060854343487792506
+landing queue is not empty
+landing is dequeued
+minutes: 661 plane Airplane@15327b79 has lannded
+minutes: 662,  landing prob: 0.38845387290362965
+minutes: 662,  take off prob: 0.7912958258030242
+minutes: 662, runway is not clear
+minutes: 663,  landing prob: 0.5852843269545683
+minutes: 663,  take off prob: 0.44964486041122786
+minutes: 663, runway is not clear
+minutes: 664,  landing prob: 0.5161946472185198
+minutes: 664,  take off prob: 0.619225125455135
+landing queue is not empty
+minutes: 664 plane Airplane@4f2410ac has crahed
+landing is dequeued
+minutes: 664 plane Airplane@722c41f4 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 664 plane Airplane@5b80350b has lannded
+minutes: 665,  landing prob: 0.4948906238158616
+minutes: 665,  take off prob: 0.366996694177921
+minutes: 665, runway is not clear
+minutes: 666,  landing prob: 0.6009447298420058
+minutes: 666,  take off prob: 0.8489844170143833
+minutes: 666, runway is not clear
+minutes: 667,  landing prob: 0.5619261594130684
+minutes: 667,  take off prob: 0.4946671027842947
+landing queue is not empty
+landing is dequeued
+minutes: 667 plane Airplane@5d6f64b1 has lannded
+minutes: 668,  landing prob: 0.4178730063511138
+minutes: 668,  take off prob: 0.41914712872909643
+minutes: 668, runway is not clear
+minutes: 669,  landing prob: 0.03210648658283799
+minutes: 669,  take off prob: 0.40207961674797943
+minutes: 669, runway is not clear
+minutes: 670,  landing prob: 0.4561011779375055
+minutes: 670,  take off prob: 0.8917432318916881
+landing queue is not empty
+landing is dequeued
+minutes: 670 plane Airplane@32a1bec0 has lannded
+minutes: 671,  landing prob: 0.4244176531296666
+minutes: 671,  take off prob: 0.39355135094926896
+minutes: 671, runway is not clear
+minutes: 672,  landing prob: 3.6493388205272037E-4
+minutes: 672,  take off prob: 0.7961018559392291
+minutes: 672, runway is not clear
+minutes: 673,  landing prob: 0.30370820850505176
+minutes: 673,  take off prob: 0.2615079248522759
+landing queue is not empty
+landing is dequeued
+minutes: 673 plane Airplane@22927a81 has lannded
+minutes: 674,  landing prob: 0.4426942195918694
+minutes: 674,  take off prob: 0.0996779664767441
+minutes: 674, runway is not clear
+minutes: 675,  landing prob: 0.5654040450228655
+minutes: 675,  take off prob: 0.3751045534583577
+minutes: 675, runway is not clear
+minutes: 676,  landing prob: 0.49872874041094906
+minutes: 676,  take off prob: 0.045216511822949945
+landing queue is not empty
+landing is dequeued
+minutes: 676 plane Airplane@78e03bb5 has lannded
+minutes: 677,  landing prob: 0.011822305827776547
+minutes: 677,  take off prob: 0.06979536310838619
+minutes: 677, runway is not clear
+minutes: 678,  landing prob: 0.4770145066983277
+minutes: 678,  take off prob: 0.3353198638707633
+minutes: 678, runway is not clear
+minutes: 679,  landing prob: 0.7795424642447184
+minutes: 679,  take off prob: 0.9149254143255442
+landing queue is not empty
+landing is dequeued
+minutes: 679 plane Airplane@5e8c92f4 has lannded
+minutes: 680,  landing prob: 0.00805263306896753
+minutes: 680,  take off prob: 0.3309331945737515
+minutes: 680, runway is not clear
+minutes: 681,  landing prob: 0.8133498245019544
+minutes: 681,  take off prob: 0.07250265069382766
+minutes: 681, runway is not clear
+minutes: 682,  landing prob: 0.8993826188625279
+minutes: 682,  take off prob: 0.9629315786439577
+landing queue is not empty
+minutes: 682 plane Airplane@61e4705b has crahed
+landing is dequeued
+minutes: 682 plane Airplane@50134894 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 682 plane Airplane@2957fcb0 has lannded
+minutes: 683,  landing prob: 0.822446047097324
+minutes: 683,  take off prob: 0.8119794719084711
+minutes: 683, runway is not clear
+minutes: 684,  landing prob: 0.002767316437350731
+minutes: 684,  take off prob: 0.6679019593559438
+minutes: 684, runway is not clear
+minutes: 685,  landing prob: 0.014073645270500146
+minutes: 685,  take off prob: 0.09211970014056703
+landing queue is not empty
+minutes: 685 plane Airplane@1376c05c has crahed
+landing is dequeued
+minutes: 685 plane Airplane@51521cc1 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 685 plane Airplane@1b4fb997 has lannded
+minutes: 686,  landing prob: 0.5013881587982897
+minutes: 686,  take off prob: 0.029530744242680984
+minutes: 686, runway is not clear
+minutes: 687,  landing prob: 0.8638327056691605
+minutes: 687,  take off prob: 0.23099667760891307
+minutes: 687, runway is not clear
+minutes: 688,  landing prob: 0.7402950892793609
+minutes: 688,  take off prob: 0.18292019976109364
+landing queue is not empty
+minutes: 688 plane Airplane@deb6432 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 688 plane Airplane@28ba21f3 has lannded
+minutes: 689,  landing prob: 0.5647066058678097
+minutes: 689,  take off prob: 0.7916272826718451
+minutes: 689, runway is not clear
+minutes: 690,  landing prob: 0.39001447845422776
+minutes: 690,  take off prob: 0.789364147032892
+minutes: 690, runway is not clear
+minutes: 691,  landing prob: 0.1339759108872971
+minutes: 691,  take off prob: 0.18051166856805867
+landing queue is not empty
+minutes: 691 plane Airplane@694f9431 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 691 plane Airplane@f2a0b8e has lannded
+minutes: 692,  landing prob: 0.07899707419545221
+minutes: 692,  take off prob: 0.7927684303635856
+minutes: 692, runway is not clear
+minutes: 693,  landing prob: 0.4820369549974287
+minutes: 693,  take off prob: 0.26985847164943033
+minutes: 693, runway is not clear
+minutes: 694,  landing prob: 0.8789376167871783
+minutes: 694,  take off prob: 0.02708358704829994
+landing queue is not empty
+landing is dequeued
+minutes: 694 plane Airplane@593634ad has lannded
+minutes: 695,  landing prob: 0.7723801852667338
+minutes: 695,  take off prob: 0.46243201189138117
+minutes: 695, runway is not clear
+minutes: 696,  landing prob: 0.26368638282210755
+minutes: 696,  take off prob: 0.40951484565472107
+minutes: 696, runway is not clear
+minutes: 697,  landing prob: 0.38486091599965155
+minutes: 697,  take off prob: 0.9168001360098887
+landing queue is not empty
+landing is dequeued
+minutes: 697 plane Airplane@20fa23c1 has lannded
+minutes: 698,  landing prob: 0.10928252536460659
+minutes: 698,  take off prob: 0.18809079766093273
+minutes: 698, runway is not clear
+minutes: 699,  landing prob: 0.3562017037878634
+minutes: 699,  take off prob: 0.654662445509547
+minutes: 699, runway is not clear
+minutes: 700,  landing prob: 0.8645506342618938
+minutes: 700,  take off prob: 0.4367656752399667
+landing queue is not empty
+landing is dequeued
+minutes: 700 plane Airplane@3581c5f3 has lannded
+minutes: 701,  landing prob: 0.8000409617061114
+minutes: 701,  take off prob: 0.5263949781813416
+minutes: 701, runway is not clear
+minutes: 702,  landing prob: 0.23225478681932354
+minutes: 702,  take off prob: 0.14567323328788961
+minutes: 702, runway is not clear
+minutes: 703,  landing prob: 0.1508907011813435
+minutes: 703,  take off prob: 0.5817113495759954
+landing queue is not empty
+minutes: 703 plane Airplane@6aa8ceb6 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 703 plane Airplane@2530c12 has lannded
+minutes: 704,  landing prob: 0.3896202918863596
+minutes: 704,  take off prob: 0.9991275195820206
+minutes: 704, runway is not clear
+minutes: 705,  landing prob: 0.977173077179804
+minutes: 705,  take off prob: 0.13063568557042882
+minutes: 705, runway is not clear
+minutes: 706,  landing prob: 0.7553985375463984
+minutes: 706,  take off prob: 0.6155837617870273
+landing queue is not empty
+landing is dequeued
+minutes: 706 plane Airplane@73c6c3b2 has lannded
+minutes: 707,  landing prob: 0.750268929091402
+minutes: 707,  take off prob: 0.6429450854708987
+minutes: 707, runway is not clear
+minutes: 708,  landing prob: 0.550106151659689
+minutes: 708,  take off prob: 0.9903441432696889
+minutes: 708, runway is not clear
+minutes: 709,  landing prob: 0.8235934317933793
+minutes: 709,  take off prob: 0.866530992805879
+landing queue is not empty
+minutes: 709 plane Airplane@48533e64 has crahed
+landing is dequeued
+minutes: 709 plane Airplane@64a294a6 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 709 plane Airplane@7e0b37bc has lannded
+minutes: 710,  landing prob: 0.2675029410976415
+minutes: 710,  take off prob: 0.09910481725874376
+minutes: 710, runway is not clear
+minutes: 711,  landing prob: 0.47575065640724945
+minutes: 711,  take off prob: 0.29529228798406404
+minutes: 711, runway is not clear
+minutes: 712,  landing prob: 0.06488299646550377
+minutes: 712,  take off prob: 0.7074384922393544
+landing queue is not empty
+landing is dequeued
+minutes: 712 plane Airplane@3b95a09c has lannded
+minutes: 713,  landing prob: 0.39197503826573843
+minutes: 713,  take off prob: 0.07947455712311302
+minutes: 713, runway is not clear
+minutes: 714,  landing prob: 0.657595955284499
+minutes: 714,  take off prob: 0.605009236158021
+minutes: 714, runway is not clear
+minutes: 715,  landing prob: 0.9345379622758783
+minutes: 715,  take off prob: 0.563831241780513
+landing queue is not empty
+minutes: 715 plane Airplane@6ae40994 has crahed
+landing is dequeued
+minutes: 715 plane Airplane@1a93a7ca has crahed
+landing is dequeued
+landing is dequeued
+minutes: 715 plane Airplane@3d82c5f3 has lannded
+minutes: 716,  landing prob: 0.982126178647887
+minutes: 716,  take off prob: 0.923944536473256
+minutes: 716, runway is not clear
+minutes: 717,  landing prob: 0.6675157660568232
+minutes: 717,  take off prob: 0.2667901834041284
+minutes: 717, runway is not clear
+minutes: 718,  landing prob: 0.4179232223563685
+minutes: 718,  take off prob: 0.81953390923584
+landing queue is not empty
+landing is dequeued
+minutes: 718 plane Airplane@2b05039f has lannded
+minutes: 719,  landing prob: 0.8058702925247571
+minutes: 719,  take off prob: 0.9840079114760131
+minutes: 719, runway is not clear
+minutes: 720,  landing prob: 0.7698245051830407
+minutes: 720,  take off prob: 0.8958431989499354
+minutes: 720, runway is not clear
+minutes: 721,  landing prob: 0.8454226632525638
+minutes: 721,  take off prob: 0.0845395273527032
+landing queue is not empty
+landing is dequeued
+minutes: 721 plane Airplane@61e717c2 has lannded
+minutes: 722,  landing prob: 0.9327131296392152
+minutes: 722,  take off prob: 0.6325709237480174
+minutes: 722, runway is not clear
+minutes: 723,  landing prob: 0.36184566821070674
+minutes: 723,  take off prob: 0.6990696601728665
+minutes: 723, runway is not clear
+minutes: 724,  landing prob: 0.7562788948580188
+minutes: 724,  take off prob: 0.7968767793640136
+landing queue is not empty
+minutes: 724 plane Airplane@66cd51c3 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 724 plane Airplane@4dcbadb4 has lannded
+minutes: 725,  landing prob: 0.7374972217748257
+minutes: 725,  take off prob: 0.9823373119139154
+minutes: 725, runway is not clear
+minutes: 726,  landing prob: 0.8009236728548724
+minutes: 726,  take off prob: 0.5358591738530447
+minutes: 726, runway is not clear
+minutes: 727,  landing prob: 0.027665682970680727
+minutes: 727,  take off prob: 0.12678786850347745
+landing queue is not empty
+landing is dequeued
+minutes: 727 plane Airplane@4e515669 has lannded
+minutes: 728,  landing prob: 0.503203866976518
+minutes: 728,  take off prob: 0.2498600383022752
+minutes: 728, runway is not clear
+minutes: 729,  landing prob: 0.2857543751400441
+minutes: 729,  take off prob: 0.3783670426405247
+minutes: 729, runway is not clear
+minutes: 730,  landing prob: 0.33870528236001185
+minutes: 730,  take off prob: 0.5199331791688002
+landing queue is not empty
+landing is dequeued
+minutes: 730 plane Airplane@17d10166 has lannded
+minutes: 731,  landing prob: 0.5761244225567943
+minutes: 731,  take off prob: 0.44869902460427535
+minutes: 731, runway is not clear
+minutes: 732,  landing prob: 0.4411578290317467
+minutes: 732,  take off prob: 0.13059735048894494
+minutes: 732, runway is not clear
+minutes: 733,  landing prob: 0.30301260806532127
+minutes: 733,  take off prob: 0.5441126035710578
+landing queue is not empty
+landing is dequeued
+minutes: 733 plane Airplane@1b9e1916 has lannded
+minutes: 734,  landing prob: 0.779554742183811
+minutes: 734,  take off prob: 0.8812012015794132
+minutes: 734, runway is not clear
+minutes: 735,  landing prob: 0.7619735803845973
+minutes: 735,  take off prob: 0.17941911964489465
+minutes: 735, runway is not clear
+minutes: 736,  landing prob: 0.16673753440219752
+minutes: 736,  take off prob: 0.23405020858057435
+landing queue is not empty
+landing is dequeued
+minutes: 736 plane Airplane@ba8a1dc has lannded
+minutes: 737,  landing prob: 0.24189997359995863
+minutes: 737,  take off prob: 0.9963194849081534
+minutes: 737, runway is not clear
+minutes: 738,  landing prob: 0.5834633694651667
+minutes: 738,  take off prob: 0.426368181224941
+minutes: 738, runway is not clear
+minutes: 739,  landing prob: 0.38912870903013774
+minutes: 739,  take off prob: 0.8257499495843179
+landing queue is not empty
+landing is dequeued
+minutes: 739 plane Airplane@4f8e5cde has lannded
+minutes: 740,  landing prob: 0.14228913308255897
+minutes: 740,  take off prob: 0.8062579715454746
+minutes: 740, runway is not clear
+minutes: 741,  landing prob: 0.1315313840515936
+minutes: 741,  take off prob: 0.06804366832829678
+minutes: 741, runway is not clear
+minutes: 742,  landing prob: 0.30975193313301774
+minutes: 742,  take off prob: 0.9589835589095128
+landing queue is not empty
+landing is dequeued
+minutes: 742 plane Airplane@504bae78 has lannded
+minutes: 743,  landing prob: 0.20663699942295177
+minutes: 743,  take off prob: 0.8156670658237604
+minutes: 743, runway is not clear
+minutes: 744,  landing prob: 0.9945982465359494
+minutes: 744,  take off prob: 0.09269303419923114
+minutes: 744, runway is not clear
+minutes: 745,  landing prob: 0.6768692738825218
+minutes: 745,  take off prob: 0.15740959834105595
+landing queue is not empty
+landing is dequeued
+minutes: 745 plane Airplane@3b764bce has lannded
+minutes: 746,  landing prob: 0.4884646808486224
+minutes: 746,  take off prob: 0.3750987892615528
+minutes: 746, runway is not clear
+minutes: 747,  landing prob: 0.6498287462166098
+minutes: 747,  take off prob: 0.6767375509987464
+minutes: 747, runway is not clear
+minutes: 748,  landing prob: 0.9397505891946798
+minutes: 748,  take off prob: 0.8292856822627088
+landing queue is not empty
+minutes: 748 plane Airplane@759ebb3d has crahed
+landing is dequeued
+landing is dequeued
+minutes: 748 plane Airplane@484b61fc has lannded
+minutes: 749,  landing prob: 0.47600228043591897
+minutes: 749,  take off prob: 0.17560098318673079
+minutes: 749, runway is not clear
+minutes: 750,  landing prob: 0.005916989820917928
+minutes: 750,  take off prob: 0.32485506861387425
+minutes: 750, runway is not clear
+minutes: 751,  landing prob: 0.6123437273510813
+minutes: 751,  take off prob: 0.08362995052954103
+landing queue is not empty
+minutes: 751 plane Airplane@45fe3ee3 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 751 plane Airplane@4cdf35a9 has lannded
+minutes: 752,  landing prob: 0.5992914835929148
+minutes: 752,  take off prob: 0.0063779491532020005
+minutes: 752, runway is not clear
+minutes: 753,  landing prob: 0.48148530523242794
+minutes: 753,  take off prob: 0.9902376824696361
+minutes: 753, runway is not clear
+minutes: 754,  landing prob: 0.32714719421054295
+minutes: 754,  take off prob: 0.2853750766194325
+landing queue is not empty
+minutes: 754 plane Airplane@4c98385c has crahed
+landing is dequeued
+minutes: 754 plane Airplane@5fcfe4b2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 754 plane Airplane@6bf2d08e has lannded
+minutes: 755,  landing prob: 0.3980146738667091
+minutes: 755,  take off prob: 0.5904447791108506
+minutes: 755, runway is not clear
+minutes: 756,  landing prob: 0.24334370606696776
+minutes: 756,  take off prob: 0.8170462985119858
+minutes: 756, runway is not clear
+minutes: 757,  landing prob: 0.07695444587907774
+minutes: 757,  take off prob: 0.15203853780344923
+landing queue is not empty
+landing is dequeued
+minutes: 757 plane Airplane@5eb5c224 has lannded
+minutes: 758,  landing prob: 0.30750042020772694
+minutes: 758,  take off prob: 0.7135674649803073
+minutes: 758, runway is not clear
+minutes: 759,  landing prob: 0.40253024112996816
+minutes: 759,  take off prob: 0.18778121121643798
+minutes: 759, runway is not clear
+minutes: 760,  landing prob: 0.892003526643573
+minutes: 760,  take off prob: 0.28878744560797365
+landing queue is not empty
+landing is dequeued
+minutes: 760 plane Airplane@53e25b76 has lannded
+minutes: 761,  landing prob: 0.8261213203762755
+minutes: 761,  take off prob: 0.9749918914271998
+minutes: 761, runway is not clear
+minutes: 762,  landing prob: 0.7951135063766239
+minutes: 762,  take off prob: 0.5380782752979107
+minutes: 762, runway is not clear
+minutes: 763,  landing prob: 0.18824751966626607
+minutes: 763,  take off prob: 0.8715349111849238
+landing queue is not empty
+landing is dequeued
+minutes: 763 plane Airplane@73a8dfcc has lannded
+minutes: 764,  landing prob: 0.04647099570802571
+minutes: 764,  take off prob: 0.8721343154113843
+minutes: 764, runway is not clear
+minutes: 765,  landing prob: 0.560289627380783
+minutes: 765,  take off prob: 0.16498841876279335
+minutes: 765, runway is not clear
+minutes: 766,  landing prob: 0.8079273148553935
+minutes: 766,  take off prob: 0.1885557510820326
+landing queue is not empty
+minutes: 766 plane Airplane@ea30797 has crahed
+landing is dequeued
+minutes: 766 plane Airplane@7e774085 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 766 plane Airplane@3f8f9dd6 has lannded
+minutes: 767,  landing prob: 0.2751496253546739
+minutes: 767,  take off prob: 0.45983726435573613
+minutes: 767, runway is not clear
+minutes: 768,  landing prob: 0.47573686478914146
+minutes: 768,  take off prob: 0.9286629889250115
+minutes: 768, runway is not clear
+minutes: 769,  landing prob: 0.26775559835508433
+minutes: 769,  take off prob: 0.7835968866608387
+landing queue is not empty
+minutes: 769 plane Airplane@aec6354 has crahed
+landing is dequeued
+minutes: 769 plane Airplane@1c655221 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 769 plane Airplane@58d25a40 has lannded
+minutes: 770,  landing prob: 0.45403523825750425
+minutes: 770,  take off prob: 0.5920494406394196
+minutes: 770, runway is not clear
+minutes: 771,  landing prob: 0.31792007472383543
+minutes: 771,  take off prob: 0.6456686476331133
+minutes: 771, runway is not clear
+minutes: 772,  landing prob: 0.6747846882685825
+minutes: 772,  take off prob: 0.06080504874882875
+landing queue is not empty
+landing is dequeued
+minutes: 772 plane Airplane@1b701da1 has lannded
+minutes: 773,  landing prob: 0.34469166476595603
+minutes: 773,  take off prob: 0.7120676581331806
+minutes: 773, runway is not clear
+minutes: 774,  landing prob: 0.890382029110211
+minutes: 774,  take off prob: 0.5298146956952527
+minutes: 774, runway is not clear
+minutes: 775,  landing prob: 0.35879909274936395
+minutes: 775,  take off prob: 0.32200133129131014
+landing queue is not empty
+minutes: 775 plane Airplane@726f3b58 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 775 plane Airplane@442d9b6e has lannded
+minutes: 776,  landing prob: 0.4384462468430784
+minutes: 776,  take off prob: 0.15961384359618236
+minutes: 776, runway is not clear
+minutes: 777,  landing prob: 0.6828191293020839
+minutes: 777,  take off prob: 0.31852123263692955
+minutes: 777, runway is not clear
+minutes: 778,  landing prob: 0.8726267063755271
+minutes: 778,  take off prob: 0.8274898661739238
+landing queue is not empty
+landing is dequeued
+minutes: 778 plane Airplane@ee7d9f1 has lannded
+minutes: 779,  landing prob: 0.275201805171455
+minutes: 779,  take off prob: 0.18017805059191883
+minutes: 779, runway is not clear
+minutes: 780,  landing prob: 0.5912183980462384
+minutes: 780,  take off prob: 0.7855578183594376
+minutes: 780, runway is not clear
+minutes: 781,  landing prob: 0.633921244038509
+minutes: 781,  take off prob: 0.8538568000118777
+landing queue is not empty
+minutes: 781 plane Airplane@15615099 has crahed
+landing is dequeued
+minutes: 781 plane Airplane@1edf1c96 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 781 plane Airplane@368102c8 has lannded
+minutes: 782,  landing prob: 0.16619338083286384
+minutes: 782,  take off prob: 0.33077464800604195
+minutes: 782, runway is not clear
+minutes: 783,  landing prob: 0.36292335167305256
+minutes: 783,  take off prob: 0.09509937422576842
+minutes: 783, runway is not clear
+minutes: 784,  landing prob: 0.371742658525235
+minutes: 784,  take off prob: 0.6604432155063089
+landing queue is not empty
+minutes: 784 plane Airplane@6996db8 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 784 plane Airplane@1963006a has lannded
+minutes: 785,  landing prob: 0.15843847309149717
+minutes: 785,  take off prob: 0.14402635613948844
+minutes: 785, runway is not clear
+minutes: 786,  landing prob: 0.035813572052910025
+minutes: 786,  take off prob: 0.36495272495463993
+minutes: 786, runway is not clear
+minutes: 787,  landing prob: 0.9972121975740352
+minutes: 787,  take off prob: 0.616947271760239
+landing queue is not empty
+minutes: 787 plane Airplane@7fbe847c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 787 plane Airplane@41975e01 has lannded
+minutes: 788,  landing prob: 0.8019192341055607
+minutes: 788,  take off prob: 0.45626322562954214
+minutes: 788, runway is not clear
+minutes: 789,  landing prob: 0.9581579536748771
+minutes: 789,  take off prob: 0.5120635878460268
+minutes: 789, runway is not clear
+minutes: 790,  landing prob: 0.5614733098595204
+minutes: 790,  take off prob: 0.1141905667123605
+landing queue is not empty
+landing is dequeued
+minutes: 790 plane Airplane@c2e1f26 has lannded
+minutes: 791,  landing prob: 0.9420426178990468
+minutes: 791,  take off prob: 0.6746839343694984
+minutes: 791, runway is not clear
+minutes: 792,  landing prob: 0.8615670851417039
+minutes: 792,  take off prob: 0.567527326210724
+minutes: 792, runway is not clear
+minutes: 793,  landing prob: 0.48219690842993757
+minutes: 793,  take off prob: 0.30506944319383444
+landing queue is not empty
+landing is dequeued
+minutes: 793 plane Airplane@dcf3e99 has lannded
+minutes: 794,  landing prob: 0.3410960492672065
+minutes: 794,  take off prob: 0.031098082860857024
+minutes: 794, runway is not clear
+minutes: 795,  landing prob: 0.507740909020323
+minutes: 795,  take off prob: 0.986780624321527
+minutes: 795, runway is not clear
+minutes: 796,  landing prob: 0.5779320110744319
+minutes: 796,  take off prob: 0.8880648087188824
+landing queue is not empty
+minutes: 796 plane Airplane@6d9c638 has crahed
+landing is dequeued
+minutes: 796 plane Airplane@7dc5e7b4 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 796 plane Airplane@1ee0005 has lannded
+minutes: 797,  landing prob: 0.36057218814018577
+minutes: 797,  take off prob: 0.23318625078201405
+minutes: 797, runway is not clear
+minutes: 798,  landing prob: 0.416299978597641
+minutes: 798,  take off prob: 0.6193191993683688
+minutes: 798, runway is not clear
+minutes: 799,  landing prob: 0.10533807277976692
+minutes: 799,  take off prob: 0.4394236044965806
+landing queue is not empty
+landing is dequeued
+minutes: 799 plane Airplane@75a1cd57 has lannded
+minutes: 800,  landing prob: 0.5122114465369514
+minutes: 800,  take off prob: 0.8265050185020337
+minutes: 800, runway is not clear
+minutes: 801,  landing prob: 0.7811067080912528
+minutes: 801,  take off prob: 0.8360192286438949
+minutes: 801, runway is not clear
+minutes: 802,  landing prob: 0.6841063286871955
+minutes: 802,  take off prob: 0.45055149999670596
+landing queue is not empty
+landing is dequeued
+minutes: 802 plane Airplane@3d012ddd has lannded
+minutes: 803,  landing prob: 0.6819304575596352
+minutes: 803,  take off prob: 0.04720960666780305
+minutes: 803, runway is not clear
+minutes: 804,  landing prob: 0.5153409453045387
+minutes: 804,  take off prob: 0.7600754744358672
+minutes: 804, runway is not clear
+minutes: 805,  landing prob: 0.18971177412745333
+minutes: 805,  take off prob: 0.7278509018601792
+landing queue is not empty
+landing is dequeued
+minutes: 805 plane Airplane@6f2b958e has lannded
+minutes: 806,  landing prob: 0.1609595220659894
+minutes: 806,  take off prob: 0.9095195758336959
+minutes: 806, runway is not clear
+minutes: 807,  landing prob: 0.43220487110683614
+minutes: 807,  take off prob: 0.250992233069652
+minutes: 807, runway is not clear
+minutes: 808,  landing prob: 0.8729777182222369
+minutes: 808,  take off prob: 0.3153052012382047
+landing queue is not empty
+landing is dequeued
+minutes: 808 plane Airplane@1eb44e46 has lannded
+minutes: 809,  landing prob: 0.185189320186829
+minutes: 809,  take off prob: 0.7472089065511668
+minutes: 809, runway is not clear
+minutes: 810,  landing prob: 0.17398814887247116
+minutes: 810,  take off prob: 0.3058168521556215
+minutes: 810, runway is not clear
+minutes: 811,  landing prob: 0.5004458572741363
+minutes: 811,  take off prob: 0.5800607425127828
+landing queue is not empty
+minutes: 811 plane Airplane@6504e3b2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 811 plane Airplane@515f550a has lannded
+minutes: 812,  landing prob: 0.5586327730906722
+minutes: 812,  take off prob: 0.9202974962444724
+minutes: 812, runway is not clear
+minutes: 813,  landing prob: 0.8182780377967179
+minutes: 813,  take off prob: 0.2273555415418973
+minutes: 813, runway is not clear
+minutes: 814,  landing prob: 0.8062350942390587
+minutes: 814,  take off prob: 0.5722846341568019
+landing queue is not empty
+landing is dequeued
+minutes: 814 plane Airplane@626b2d4a has lannded
+minutes: 815,  landing prob: 0.841184940472623
+minutes: 815,  take off prob: 0.7257497958807831
+minutes: 815, runway is not clear
+minutes: 816,  landing prob: 0.9335021963811924
+minutes: 816,  take off prob: 0.871212829866446
+minutes: 816, runway is not clear
+minutes: 817,  landing prob: 0.4305225018172292
+minutes: 817,  take off prob: 0.448896898274426
+landing queue is not empty
+landing is dequeued
+minutes: 817 plane Airplane@5e91993f has lannded
+minutes: 818,  landing prob: 0.40536757160090553
+minutes: 818,  take off prob: 0.7579786525038252
+minutes: 818, runway is not clear
+minutes: 819,  landing prob: 0.6369860771383989
+minutes: 819,  take off prob: 0.4689233169127749
+minutes: 819, runway is not clear
+minutes: 820,  landing prob: 0.19142444358731814
+minutes: 820,  take off prob: 0.5191162435163088
+landing queue is not empty
+minutes: 820 plane Airplane@1c4af82c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 820 plane Airplane@379619aa has lannded
+minutes: 821,  landing prob: 0.8056873048380689
+minutes: 821,  take off prob: 0.2624614843160181
+minutes: 821, runway is not clear
+minutes: 822,  landing prob: 0.15519680259723323
+minutes: 822,  take off prob: 0.47759061883076526
+minutes: 822, runway is not clear
+minutes: 823,  landing prob: 0.5236035971622336
+minutes: 823,  take off prob: 0.2817914965303998
+landing queue is not empty
+landing is dequeued
+minutes: 823 plane Airplane@cac736f has lannded
+minutes: 824,  landing prob: 0.6698794657738366
+minutes: 824,  take off prob: 0.26482461734059326
+minutes: 824, runway is not clear
+minutes: 825,  landing prob: 0.6684820224318416
+minutes: 825,  take off prob: 0.6643451644297347
+minutes: 825, runway is not clear
+minutes: 826,  landing prob: 0.023440922300051015
+minutes: 826,  take off prob: 0.9671738800269398
+landing queue is not empty
+landing is dequeued
+minutes: 826 plane Airplane@5e265ba4 has lannded
+minutes: 827,  landing prob: 0.014182206128580566
+minutes: 827,  take off prob: 0.3341207445971156
+minutes: 827, runway is not clear
+minutes: 828,  landing prob: 0.5570456030776059
+minutes: 828,  take off prob: 0.37880340687761305
+minutes: 828, runway is not clear
+minutes: 829,  landing prob: 0.7280191200904771
+minutes: 829,  take off prob: 0.8567598575001937
+landing queue is not empty
+landing is dequeued
+minutes: 829 plane Airplane@156643d4 has lannded
+minutes: 830,  landing prob: 0.6819368995333852
+minutes: 830,  take off prob: 0.9517061611478196
+minutes: 830, runway is not clear
+minutes: 831,  landing prob: 0.22573997067695506
+minutes: 831,  take off prob: 0.36962927413435365
+minutes: 831, runway is not clear
+minutes: 832,  landing prob: 0.9653833211273098
+minutes: 832,  take off prob: 0.5957761675519149
+landing queue is not empty
+landing is dequeued
+minutes: 832 plane Airplane@123a439b has lannded
+minutes: 833,  landing prob: 0.4488026847277734
+minutes: 833,  take off prob: 0.2512967506578093
+minutes: 833, runway is not clear
+minutes: 834,  landing prob: 0.7041044961221951
+minutes: 834,  take off prob: 0.7925063815347297
+minutes: 834, runway is not clear
+minutes: 835,  landing prob: 0.27682859295021345
+minutes: 835,  take off prob: 0.6371773286761825
+landing queue is not empty
+landing is dequeued
+minutes: 835 plane Airplane@7de26db8 has lannded
+minutes: 836,  landing prob: 0.3318918412844857
+minutes: 836,  take off prob: 0.5262539413351983
+minutes: 836, runway is not clear
+minutes: 837,  landing prob: 0.10474991557323265
+minutes: 837,  take off prob: 0.34553064433793723
+minutes: 837, runway is not clear
+minutes: 838,  landing prob: 0.4759481567309143
+minutes: 838,  take off prob: 0.7573289111203937
+landing queue is not empty
+minutes: 838 plane Airplane@1175e2db has crahed
+landing is dequeued
+landing is dequeued
+minutes: 838 plane Airplane@36aa7bc2 has lannded
+minutes: 839,  landing prob: 0.4784934426767279
+minutes: 839,  take off prob: 0.3816997904026004
+minutes: 839, runway is not clear
+minutes: 840,  landing prob: 0.43635775494900697
+minutes: 840,  take off prob: 0.0066733595087977715
+minutes: 840, runway is not clear
+minutes: 841,  landing prob: 0.9396260929209198
+minutes: 841,  take off prob: 0.4409198272610373
+landing queue is not empty
+landing is dequeued
+minutes: 841 plane Airplane@76ccd017 has lannded
+minutes: 842,  landing prob: 0.9494716954465121
+minutes: 842,  take off prob: 0.26411159327252165
+minutes: 842, runway is not clear
+minutes: 843,  landing prob: 0.4021251010998753
+minutes: 843,  take off prob: 0.9580995756989431
+minutes: 843, runway is not clear
+minutes: 844,  landing prob: 0.6207298334075193
+minutes: 844,  take off prob: 0.38327339975685626
+landing queue is not empty
+landing is dequeued
+minutes: 844 plane Airplane@182decdb has lannded
+minutes: 845,  landing prob: 0.5677424709383124
+minutes: 845,  take off prob: 0.36397092803441355
+minutes: 845, runway is not clear
+minutes: 846,  landing prob: 0.3194614105745094
+minutes: 846,  take off prob: 0.6667121376760201
+minutes: 846, runway is not clear
+minutes: 847,  landing prob: 0.47516418869431165
+minutes: 847,  take off prob: 0.4508622813942159
+landing queue is not empty
+minutes: 847 plane Airplane@26f0a63f has crahed
+landing is dequeued
+landing is dequeued
+minutes: 847 plane Airplane@4361bd48 has lannded
+minutes: 848,  landing prob: 0.2041893613101573
+minutes: 848,  take off prob: 0.9953017889198965
+minutes: 848, runway is not clear
+minutes: 849,  landing prob: 0.3629814081694581
+minutes: 849,  take off prob: 0.5861706292780092
+minutes: 849, runway is not clear
+minutes: 850,  landing prob: 0.6552259500997437
+minutes: 850,  take off prob: 0.07859532537321612
+landing queue is not empty
+minutes: 850 plane Airplane@53bd815b has crahed
+landing is dequeued
+minutes: 850 plane Airplane@2401f4c3 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 850 plane Airplane@7637f22 has lannded
+minutes: 851,  landing prob: 0.7082698257489494
+minutes: 851,  take off prob: 0.01934887445930522
+minutes: 851, runway is not clear
+minutes: 852,  landing prob: 0.3847167688986113
+minutes: 852,  take off prob: 0.35655235377913175
+minutes: 852, runway is not clear
+minutes: 853,  landing prob: 0.9229377179679683
+minutes: 853,  take off prob: 0.3535192681879652
+landing queue is not empty
+landing is dequeued
+minutes: 853 plane Airplane@4926097b has lannded
+minutes: 854,  landing prob: 0.979473809893219
+minutes: 854,  take off prob: 0.9134122503018154
+minutes: 854, runway is not clear
+minutes: 855,  landing prob: 0.2403978296642897
+minutes: 855,  take off prob: 0.49556187583910905
+minutes: 855, runway is not clear
+minutes: 856,  landing prob: 0.6238460701640463
+minutes: 856,  take off prob: 0.7758703926015817
+landing queue is not empty
+landing is dequeued
+minutes: 856 plane Airplane@762efe5d has lannded
+minutes: 857,  landing prob: 0.4490134765107704
+minutes: 857,  take off prob: 0.8658006075152168
+minutes: 857, runway is not clear
+minutes: 858,  landing prob: 0.7027602158813342
+minutes: 858,  take off prob: 0.9548312413926392
+minutes: 858, runway is not clear
+minutes: 859,  landing prob: 0.46597683660456257
+minutes: 859,  take off prob: 0.5461106753334538
+landing queue is not empty
+minutes: 859 plane Airplane@5d22bbb7 has crahed
+landing is dequeued
+minutes: 859 plane Airplane@41a4555e has crahed
+landing is dequeued
+landing is dequeued
+minutes: 859 plane Airplane@3830f1c0 has lannded
+minutes: 860,  landing prob: 0.55478618388082
+minutes: 860,  take off prob: 0.026792737017704127
+minutes: 860, runway is not clear
+minutes: 861,  landing prob: 0.3667143220164183
+minutes: 861,  take off prob: 0.8442941921522485
+minutes: 861, runway is not clear
+minutes: 862,  landing prob: 0.8469554992315762
+minutes: 862,  take off prob: 0.8486318603684945
+landing queue is not empty
+landing is dequeued
+minutes: 862 plane Airplane@39ed3c8d has lannded
+minutes: 863,  landing prob: 0.26393343269908986
+minutes: 863,  take off prob: 0.5214013231482902
+minutes: 863, runway is not clear
+minutes: 864,  landing prob: 0.4958244993880685
+minutes: 864,  take off prob: 0.5374474645258615
+minutes: 864, runway is not clear
+minutes: 865,  landing prob: 0.8987354674639232
+minutes: 865,  take off prob: 0.08231309342899673
+landing queue is not empty
+landing is dequeued
+minutes: 865 plane Airplane@71dac704 has lannded
+minutes: 866,  landing prob: 0.47498407737632764
+minutes: 866,  take off prob: 0.4683883477974774
+minutes: 866, runway is not clear
+minutes: 867,  landing prob: 0.003615441158868138
+minutes: 867,  take off prob: 0.12324193147600215
+minutes: 867, runway is not clear
+minutes: 868,  landing prob: 0.32167937352133336
+minutes: 868,  take off prob: 0.7580200053400086
+landing queue is not empty
+minutes: 868 plane Airplane@123772c4 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 868 plane Airplane@2d363fb3 has lannded
+minutes: 869,  landing prob: 0.33875977427398507
+minutes: 869,  take off prob: 0.1614620787282085
+minutes: 869, runway is not clear
+minutes: 870,  landing prob: 0.7954171575870655
+minutes: 870,  take off prob: 0.6549576647893601
+minutes: 870, runway is not clear
+minutes: 871,  landing prob: 0.45396364306009374
+minutes: 871,  take off prob: 0.25303418275285305
+landing queue is not empty
+landing is dequeued
+minutes: 871 plane Airplane@7d6f77cc has lannded
+minutes: 872,  landing prob: 0.47671831015266175
+minutes: 872,  take off prob: 0.5135599489844876
+minutes: 872, runway is not clear
+minutes: 873,  landing prob: 0.7839485436640815
+minutes: 873,  take off prob: 0.3111831278699497
+minutes: 873, runway is not clear
+minutes: 874,  landing prob: 0.7307779361211946
+minutes: 874,  take off prob: 0.7870040416674973
+landing queue is not empty
+minutes: 874 plane Airplane@5aaa6d82 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 874 plane Airplane@73a28541 has lannded
+minutes: 875,  landing prob: 0.8733028663522074
+minutes: 875,  take off prob: 0.38387814154174005
+minutes: 875, runway is not clear
+minutes: 876,  landing prob: 0.25770446925720647
+minutes: 876,  take off prob: 0.8851038248501871
+minutes: 876, runway is not clear
+minutes: 877,  landing prob: 0.33565911700648676
+minutes: 877,  take off prob: 0.7225003077784639
+landing queue is not empty
+minutes: 877 plane Airplane@6f75e721 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 877 plane Airplane@69222c14 has lannded
+minutes: 878,  landing prob: 0.46607317133788606
+minutes: 878,  take off prob: 0.16113152238119022
+minutes: 878, runway is not clear
+minutes: 879,  landing prob: 0.040555924163033
+minutes: 879,  take off prob: 0.050629256096682784
+minutes: 879, runway is not clear
+minutes: 880,  landing prob: 0.3325625619324686
+minutes: 880,  take off prob: 0.6176738033032263
+landing queue is not empty
+minutes: 880 plane Airplane@606d8acf has crahed
+landing is dequeued
+minutes: 880 plane Airplane@782830e has crahed
+landing is dequeued
+landing is dequeued
+minutes: 880 plane Airplane@470e2030 has lannded
+minutes: 881,  landing prob: 0.6941919052348378
+minutes: 881,  take off prob: 0.7505347623965646
+minutes: 881, runway is not clear
+minutes: 882,  landing prob: 0.7879313164475045
+minutes: 882,  take off prob: 0.5347509868022379
+minutes: 882, runway is not clear
+minutes: 883,  landing prob: 0.10581974439670605
+minutes: 883,  take off prob: 0.8186427387623719
+landing queue is not empty
+minutes: 883 plane Airplane@3fb4f649 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 883 plane Airplane@33833882 has lannded
+minutes: 884,  landing prob: 0.8765142400213726
+minutes: 884,  take off prob: 0.3348024182014546
+minutes: 884, runway is not clear
+minutes: 885,  landing prob: 0.9264344488467113
+minutes: 885,  take off prob: 0.8314884388006378
+minutes: 885, runway is not clear
+minutes: 886,  landing prob: 0.7437879178800363
+minutes: 886,  take off prob: 0.810212305198221
+landing queue is not empty
+landing is dequeued
+minutes: 886 plane Airplane@200a570f has lannded
+minutes: 887,  landing prob: 0.1279245664437011
+minutes: 887,  take off prob: 0.6294073775086133
+minutes: 887, runway is not clear
+minutes: 888,  landing prob: 0.8060631904657204
+minutes: 888,  take off prob: 0.49287161272232627
+minutes: 888, runway is not clear
+minutes: 889,  landing prob: 0.5760512088306922
+minutes: 889,  take off prob: 0.2818569907242088
+landing queue is not empty
+minutes: 889 plane Airplane@16b3fc9e has crahed
+landing is dequeued
+landing is dequeued
+minutes: 889 plane Airplane@e2d56bf has lannded
+minutes: 890,  landing prob: 0.46949837985809273
+minutes: 890,  take off prob: 0.9653393041326832
+minutes: 890, runway is not clear
+minutes: 891,  landing prob: 0.3876494994780555
+minutes: 891,  take off prob: 0.04882311746613621
+minutes: 891, runway is not clear
+minutes: 892,  landing prob: 0.09815282720125829
+minutes: 892,  take off prob: 0.9793937047187411
+landing queue is not empty
+minutes: 892 plane Airplane@244038d0 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 892 plane Airplane@5680a178 has lannded
+minutes: 893,  landing prob: 0.8718525447467061
+minutes: 893,  take off prob: 0.7435684749761723
+minutes: 893, runway is not clear
+minutes: 894,  landing prob: 0.038344503077098024
+minutes: 894,  take off prob: 0.673436115840097
+minutes: 894, runway is not clear
+minutes: 895,  landing prob: 0.979792915933646
+minutes: 895,  take off prob: 0.391053009084817
+landing queue is not empty
+landing is dequeued
+minutes: 895 plane Airplane@5fdef03a has lannded
+minutes: 896,  landing prob: 0.25897965510735854
+minutes: 896,  take off prob: 0.8454817961208346
+minutes: 896, runway is not clear
+minutes: 897,  landing prob: 0.5354069524088992
+minutes: 897,  take off prob: 0.2882565112689188
+minutes: 897, runway is not clear
+minutes: 898,  landing prob: 0.360498813058329
+minutes: 898,  take off prob: 0.5096972185273666
+landing queue is not empty
+landing is dequeued
+minutes: 898 plane Airplane@3b22cdd0 has lannded
+minutes: 899,  landing prob: 0.25942407799152967
+minutes: 899,  take off prob: 0.2742839942701948
+minutes: 899, runway is not clear
+minutes: 900,  landing prob: 0.06924312540692057
+minutes: 900,  take off prob: 0.2348818748020437
+minutes: 900, runway is not clear
+minutes: 901,  landing prob: 0.6883687258349105
+minutes: 901,  take off prob: 0.9899204178784894
+landing queue is not empty
+landing is dequeued
+minutes: 901 plane Airplane@1e81f4dc has lannded
+minutes: 902,  landing prob: 0.4460418607091087
+minutes: 902,  take off prob: 0.8609902178398696
+minutes: 902, runway is not clear
+minutes: 903,  landing prob: 0.6992932099224807
+minutes: 903,  take off prob: 0.6005955532448761
+minutes: 903, runway is not clear
+minutes: 904,  landing prob: 0.3145119008637095
+minutes: 904,  take off prob: 0.7743145355540662
+landing queue is not empty
+minutes: 904 plane Airplane@4d591d15 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 904 plane Airplane@65ae6ba4 has lannded
+minutes: 905,  landing prob: 0.8614232804942922
+minutes: 905,  take off prob: 0.41532567881219296
+minutes: 905, runway is not clear
+minutes: 906,  landing prob: 0.7851014531877191
+minutes: 906,  take off prob: 0.2900784484979777
+minutes: 906, runway is not clear
+minutes: 907,  landing prob: 0.2020233134848326
+minutes: 907,  take off prob: 0.9865682083867184
+landing queue is not empty
+minutes: 907 plane Airplane@48cf768c has crahed
+landing is dequeued
+landing is dequeued
+minutes: 907 plane Airplane@59f95c5d has lannded
+minutes: 908,  landing prob: 0.6115988899672504
+minutes: 908,  take off prob: 0.5564507643892352
+minutes: 908, runway is not clear
+minutes: 909,  landing prob: 0.3091557235317113
+minutes: 909,  take off prob: 0.09259316715690435
+minutes: 909, runway is not clear
+minutes: 910,  landing prob: 0.5969172978167473
+minutes: 910,  take off prob: 0.7780558732357463
+landing queue is not empty
+minutes: 910 plane Airplane@5ccd43c2 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 910 plane Airplane@4aa8f0b4 has lannded
+minutes: 911,  landing prob: 0.7315962642224674
+minutes: 911,  take off prob: 0.5988263440158241
+minutes: 911, runway is not clear
+minutes: 912,  landing prob: 0.9069099647988704
+minutes: 912,  take off prob: 0.18824053893721648
+minutes: 912, runway is not clear
+minutes: 913,  landing prob: 0.28465683107693285
+minutes: 913,  take off prob: 0.18216972145732635
+landing queue is not empty
+minutes: 913 plane Airplane@7960847b has crahed
+landing is dequeued
+landing is dequeued
+minutes: 913 plane Airplane@6a6824be has lannded
+minutes: 914,  landing prob: 0.40426006570025186
+minutes: 914,  take off prob: 0.8017687058908162
+minutes: 914, runway is not clear
+minutes: 915,  landing prob: 0.7918586198872793
+minutes: 915,  take off prob: 0.8721559203152042
+minutes: 915, runway is not clear
+minutes: 916,  landing prob: 0.14081512926798634
+minutes: 916,  take off prob: 0.13245873465650948
+landing queue is not empty
+landing is dequeued
+minutes: 916 plane Airplane@5c8da962 has lannded
+minutes: 917,  landing prob: 0.4933107594920598
+minutes: 917,  take off prob: 0.5222997807283621
+minutes: 917, runway is not clear
+minutes: 918,  landing prob: 0.172327792696907
+minutes: 918,  take off prob: 0.39122741875749945
+minutes: 918, runway is not clear
+minutes: 919,  landing prob: 0.23949657015887016
+minutes: 919,  take off prob: 0.8506708167506288
+landing queue is not empty
+landing is dequeued
+minutes: 919 plane Airplane@512ddf17 has lannded
+minutes: 920,  landing prob: 0.8869146172310294
+minutes: 920,  take off prob: 0.4066546762019757
+minutes: 920, runway is not clear
+minutes: 921,  landing prob: 0.17007680753030763
+minutes: 921,  take off prob: 0.32829250656037734
+minutes: 921, runway is not clear
+minutes: 922,  landing prob: 0.43481014192946565
+minutes: 922,  take off prob: 0.06628988747271769
+landing queue is not empty
+landing is dequeued
+minutes: 922 plane Airplane@2c13da15 has lannded
+minutes: 923,  landing prob: 0.9226204217675483
+minutes: 923,  take off prob: 0.2230050254740913
+minutes: 923, runway is not clear
+minutes: 924,  landing prob: 0.9460980060441082
+minutes: 924,  take off prob: 0.9639576231607003
+minutes: 924, runway is not clear
+minutes: 925,  landing prob: 0.5781434625012802
+minutes: 925,  take off prob: 0.228625775029498
+landing queue is not empty
+minutes: 925 plane Airplane@77556fd has crahed
+landing is dequeued
+landing is dequeued
+minutes: 925 plane Airplane@368239c8 has lannded
+minutes: 926,  landing prob: 0.4566986532690418
+minutes: 926,  take off prob: 0.4765630489049921
+minutes: 926, runway is not clear
+minutes: 927,  landing prob: 0.2122893944136186
+minutes: 927,  take off prob: 0.24699316025563067
+minutes: 927, runway is not clear
+minutes: 928,  landing prob: 0.13477947496437725
+minutes: 928,  take off prob: 0.7289847934983585
+landing queue is not empty
+minutes: 928 plane Airplane@9e89d68 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 928 plane Airplane@3b192d32 has lannded
+minutes: 929,  landing prob: 0.829298206186456
+minutes: 929,  take off prob: 0.04865038819916756
+minutes: 929, runway is not clear
+minutes: 930,  landing prob: 0.3208634341712213
+minutes: 930,  take off prob: 0.836346753647577
+minutes: 930, runway is not clear
+minutes: 931,  landing prob: 0.3113786411955147
+minutes: 931,  take off prob: 0.9183986842863621
+landing queue is not empty
+minutes: 931 plane Airplane@16f65612 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 931 plane Airplane@311d617d has lannded
+minutes: 932,  landing prob: 0.2335593557831005
+minutes: 932,  take off prob: 0.3804232603501263
+minutes: 932, runway is not clear
+minutes: 933,  landing prob: 0.5413047426801386
+minutes: 933,  take off prob: 0.7886242063663238
+minutes: 933, runway is not clear
+minutes: 934,  landing prob: 0.29090670249670325
+minutes: 934,  take off prob: 0.6409622991031263
+landing queue is not empty
+minutes: 934 plane Airplane@7c53a9eb has crahed
+landing is dequeued
+landing is dequeued
+minutes: 934 plane Airplane@ed17bee has lannded
+minutes: 935,  landing prob: 0.35839618033114573
+minutes: 935,  take off prob: 0.3047302241043598
+minutes: 935, runway is not clear
+minutes: 936,  landing prob: 0.5637189840937272
+minutes: 936,  take off prob: 0.3792919856812209
+minutes: 936, runway is not clear
+minutes: 937,  landing prob: 0.29044791129064707
+minutes: 937,  take off prob: 0.2198868586171444
+landing queue is not empty
+landing is dequeued
+minutes: 937 plane Airplane@2a33fae0 has lannded
+minutes: 938,  landing prob: 0.0022766795396386152
+minutes: 938,  take off prob: 0.9042506871174344
+minutes: 938, runway is not clear
+minutes: 939,  landing prob: 0.38016109679406274
+minutes: 939,  take off prob: 0.6727294532986953
+minutes: 939, runway is not clear
+minutes: 940,  landing prob: 0.5775925315239459
+minutes: 940,  take off prob: 0.06965646489799604
+landing queue is not empty
+minutes: 940 plane Airplane@707f7052 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 940 plane Airplane@11028347 has lannded
+minutes: 941,  landing prob: 0.8287182302956979
+minutes: 941,  take off prob: 0.2952889162662675
+minutes: 941, runway is not clear
+minutes: 942,  landing prob: 0.578058622580922
+minutes: 942,  take off prob: 0.7725853082220261
+minutes: 942, runway is not clear
+minutes: 943,  landing prob: 0.9809555714568935
+minutes: 943,  take off prob: 0.9413867779127446
+landing queue is not empty
+minutes: 943 plane Airplane@14899482 has crahed
+landing is dequeued
+minutes: 943 plane Airplane@21588809 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 943 plane Airplane@2aae9190 has lannded
+minutes: 944,  landing prob: 0.46952305725080234
+minutes: 944,  take off prob: 0.6889889740854447
+minutes: 944, runway is not clear
+minutes: 945,  landing prob: 0.6307620347532883
+minutes: 945,  take off prob: 0.7655066623071323
+minutes: 945, runway is not clear
+minutes: 946,  landing prob: 0.3875238034887599
+minutes: 946,  take off prob: 0.3421302797634942
+landing queue is not empty
+minutes: 946 plane Airplane@2f333739 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 946 plane Airplane@77468bd9 has lannded
+minutes: 947,  landing prob: 0.8242481604456766
+minutes: 947,  take off prob: 0.17858185177579455
+minutes: 947, runway is not clear
+minutes: 948,  landing prob: 0.6568755769039751
+minutes: 948,  take off prob: 0.44096345120901437
+minutes: 948, runway is not clear
+minutes: 949,  landing prob: 0.8424779048190475
+minutes: 949,  take off prob: 0.5834147162148299
+landing queue is not empty
+minutes: 949 plane Airplane@12bb4df8 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 949 plane Airplane@4cc77c2e has lannded
+minutes: 950,  landing prob: 0.5557972892294076
+minutes: 950,  take off prob: 0.058924774758191245
+minutes: 950, runway is not clear
+minutes: 951,  landing prob: 0.5919775564443672
+minutes: 951,  take off prob: 0.5823820204132574
+minutes: 951, runway is not clear
+minutes: 952,  landing prob: 0.06626640986391419
+minutes: 952,  take off prob: 0.09831636169702751
+landing queue is not empty
+landing is dequeued
+minutes: 952 plane Airplane@7a7b0070 has lannded
+minutes: 953,  landing prob: 0.6924593867110699
+minutes: 953,  take off prob: 0.10495143462530243
+minutes: 953, runway is not clear
+minutes: 954,  landing prob: 0.7971561125112753
+minutes: 954,  take off prob: 0.5603197062651121
+minutes: 954, runway is not clear
+minutes: 955,  landing prob: 0.482267133443232
+minutes: 955,  take off prob: 0.9091754797274126
+landing queue is not empty
+landing is dequeued
+minutes: 955 plane Airplane@39a054a5 has lannded
+minutes: 956,  landing prob: 0.6583349959034533
+minutes: 956,  take off prob: 0.010661547948225825
+minutes: 956, runway is not clear
+minutes: 957,  landing prob: 0.20867136965518196
+minutes: 957,  take off prob: 0.07706852740317383
+minutes: 957, runway is not clear
+minutes: 958,  landing prob: 0.9774758867469459
+minutes: 958,  take off prob: 0.6811036954437196
+landing queue is not empty
+landing is dequeued
+minutes: 958 plane Airplane@71bc1ae4 has lannded
+minutes: 959,  landing prob: 0.7735625302284956
+minutes: 959,  take off prob: 0.8443926616259775
+minutes: 959, runway is not clear
+minutes: 960,  landing prob: 0.4841166572194012
+minutes: 960,  take off prob: 0.5014319434677436
+minutes: 960, runway is not clear
+minutes: 961,  landing prob: 0.5975480574748024
+minutes: 961,  take off prob: 0.6485191862182629
+landing queue is not empty
+landing is dequeued
+minutes: 961 plane Airplane@6ed3ef1 has lannded
+minutes: 962,  landing prob: 0.5442769870642051
+minutes: 962,  take off prob: 0.15682447090434726
+minutes: 962, runway is not clear
+minutes: 963,  landing prob: 0.30441503057684804
+minutes: 963,  take off prob: 0.9632684703922958
+minutes: 963, runway is not clear
+minutes: 964,  landing prob: 0.7439262527705521
+minutes: 964,  take off prob: 0.007030927027709244
+landing queue is not empty
+landing is dequeued
+minutes: 964 plane Airplane@2437c6dc has lannded
+minutes: 965,  landing prob: 0.6763409362081542
+minutes: 965,  take off prob: 0.6030397851075479
+minutes: 965, runway is not clear
+minutes: 966,  landing prob: 0.8608433803953085
+minutes: 966,  take off prob: 0.36990689226296736
+minutes: 966, runway is not clear
+minutes: 967,  landing prob: 0.21206830616860428
+minutes: 967,  take off prob: 0.5213377513475147
+landing queue is not empty
+landing is dequeued
+minutes: 967 plane Airplane@1f89ab83 has lannded
+minutes: 968,  landing prob: 0.06608018700616947
+minutes: 968,  take off prob: 0.9034841536654239
+minutes: 968, runway is not clear
+minutes: 969,  landing prob: 0.3655649134737836
+minutes: 969,  take off prob: 0.2691597573763802
+minutes: 969, runway is not clear
+minutes: 970,  landing prob: 0.1516432397817289
+minutes: 970,  take off prob: 0.3731522097072306
+landing queue is not empty
+landing is dequeued
+minutes: 970 plane Airplane@e73f9ac has lannded
+minutes: 971,  landing prob: 0.02039275585495348
+minutes: 971,  take off prob: 0.5700211853871568
+minutes: 971, runway is not clear
+minutes: 972,  landing prob: 0.16175304284381053
+minutes: 972,  take off prob: 0.8741025434171265
+minutes: 972, runway is not clear
+minutes: 973,  landing prob: 0.8131974725332136
+minutes: 973,  take off prob: 0.5009699330628861
+landing queue is not empty
+landing is dequeued
+minutes: 973 plane Airplane@61064425 has lannded
+minutes: 974,  landing prob: 0.25462054499367825
+minutes: 974,  take off prob: 0.9047735520700153
+minutes: 974, runway is not clear
+minutes: 975,  landing prob: 0.30453851650868813
+minutes: 975,  take off prob: 0.9337049680323022
+minutes: 975, runway is not clear
+minutes: 976,  landing prob: 0.22483257816835578
+minutes: 976,  take off prob: 0.43700152681720583
+landing queue is not empty
+landing is dequeued
+minutes: 976 plane Airplane@7b1d7fff has lannded
+minutes: 977,  landing prob: 0.2921106422900456
+minutes: 977,  take off prob: 0.8239057233001351
+minutes: 977, runway is not clear
+minutes: 978,  landing prob: 0.7683970236829741
+minutes: 978,  take off prob: 0.099739433719509
+minutes: 978, runway is not clear
+minutes: 979,  landing prob: 0.19457322129300925
+minutes: 979,  take off prob: 0.599429877918195
+landing queue is not empty
+landing is dequeued
+minutes: 979 plane Airplane@299a06ac has lannded
+minutes: 980,  landing prob: 0.7795000548619332
+minutes: 980,  take off prob: 0.17561539336596832
+minutes: 980, runway is not clear
+minutes: 981,  landing prob: 0.5489180480525602
+minutes: 981,  take off prob: 0.2077661449351027
+minutes: 981, runway is not clear
+minutes: 982,  landing prob: 0.9987082283224814
+minutes: 982,  take off prob: 0.560928614934183
+landing queue is not empty
+minutes: 982 plane Airplane@383534aa has crahed
+landing is dequeued
+minutes: 982 plane Airplane@6bc168e5 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 982 plane Airplane@7b3300e5 has lannded
+minutes: 983,  landing prob: 0.36306382855415886
+minutes: 983,  take off prob: 0.22081347422878006
+minutes: 983, runway is not clear
+minutes: 984,  landing prob: 0.34110101200509346
+minutes: 984,  take off prob: 0.8239112721574459
+minutes: 984, runway is not clear
+minutes: 985,  landing prob: 0.49255289482476594
+minutes: 985,  take off prob: 0.829338895086702
+landing queue is not empty
+minutes: 985 plane Airplane@2e5c649 has crahed
+landing is dequeued
+landing is dequeued
+minutes: 985 plane Airplane@136432db has lannded
+minutes: 986,  landing prob: 0.7493891755974046
+minutes: 986,  take off prob: 0.2611926675654296
+minutes: 986, runway is not clear
+minutes: 987,  landing prob: 0.06536783577395244
+minutes: 987,  take off prob: 0.8550407952687223
+minutes: 987, runway is not clear
+minutes: 988,  landing prob: 0.027241779323714743
+minutes: 988,  take off prob: 0.9294434155744326
+landing queue is not empty
+minutes: 988 plane Airplane@7382f612 has crahed
+landing is dequeued
+minutes: 988 plane Airplane@1055e4af has crahed
+landing is dequeued
+landing is dequeued
+minutes: 988 plane Airplane@3caeaf62 has lannded
+minutes: 989,  landing prob: 0.36638092463102867
+minutes: 989,  take off prob: 0.08857280359186781
+minutes: 989, runway is not clear
+minutes: 990,  landing prob: 0.5197841531224651
+minutes: 990,  take off prob: 0.1819117007212634
+minutes: 990, runway is not clear
+minutes: 991,  landing prob: 0.9581982406352039
+minutes: 991,  take off prob: 0.20099563197665893
+landing queue is not empty
+landing is dequeued
+minutes: 991 plane Airplane@e6ea0c6 has lannded
+minutes: 992,  landing prob: 0.5093280986699923
+minutes: 992,  take off prob: 0.5457776714380526
+minutes: 992, runway is not clear
+minutes: 993,  landing prob: 0.49712565897238314
+minutes: 993,  take off prob: 0.2305640047822085
+minutes: 993, runway is not clear
+minutes: 994,  landing prob: 0.27908535394367007
+minutes: 994,  take off prob: 0.5770893853180228
+landing queue is not empty
+landing is dequeued
+minutes: 994 plane Airplane@6a38e57f has lannded
+minutes: 995,  landing prob: 0.45305212530199934
+minutes: 995,  take off prob: 0.4982743261569129
+minutes: 995, runway is not clear
+minutes: 996,  landing prob: 0.6605779347366579
+minutes: 996,  take off prob: 0.4690792917475869
+minutes: 996, runway is not clear
+minutes: 997,  landing prob: 0.23926659661509997
+minutes: 997,  take off prob: 0.28742491126502046
+landing queue is not empty
+minutes: 997 plane Airplane@5577140b has crahed
+landing is dequeued
+landing is dequeued
+minutes: 997 plane Airplane@1c6b6478 has lannded
+minutes: 998,  landing prob: 0.4538359500297503
+minutes: 998,  take off prob: 0.46581754763035066
+minutes: 998, runway is not clear
+minutes: 999,  landing prob: 0.4666361234492358
+minutes: 999,  take off prob: 0.6100779109761807
+minutes: 999, runway is not clear
